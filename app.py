@@ -60,6 +60,8 @@ with st.sidebar:
     st.subheader("📘 Grammar & Verbs")
     st.page_link("pages/08_verb_trainer.py", label="🔧 Verb Trainer", icon="🔧")
     #st.page_link("pages/09_grammar.py", label="📚 Grammar", icon="📚")
+    st.page_link("pages/10_prefix_verb.py", label="🇩🇪 Prefix + Verb", icon="🇩🇪")
+
     
     st.markdown("---")
     st.caption("Made with ❤️ for German learners")
