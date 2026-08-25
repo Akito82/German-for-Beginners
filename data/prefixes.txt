@@ -1,0 +1,152 @@
+ab:
+[1] weg, fort
+[1a] sich oder etwas fortbewegen
+[1b] sich (von selbst) ablösen, etwas abtrennen
+[1c] etwas beseitigen, etwas reinigen, etwas von Schmutz befreien
+[1d] etwas unterbrechen
+[1e] von … her, von jemandem stammen, etwas von jemandem gewinnen, etwas zum Vorbild nehmen
+[2] zu Ende
+[2a] ganz und gar, bis zur Erschöpfung, bis zur Untauglichkeit, bis zur Tilgung
+[2b] Sport: die Sportart zum letzten Mal in der Saison ausüben
+[3] nach unten, unten, herunter
+[3a] räumlich
+[3b] in der Anzahl weniger
+[4]
+[4a] ein wenig
+[4b] allmählich, nach und nach
+[5] rückgängig machen, zum Gegenteil wenden
+[6] versehen mit, darauf, daran
+[7] verstärkend
+[7a] Betonung des Vorgangs des Basisverbs
+[7b] Betonung des Endes des Basisverbs
+an:
+[1] vorangestelltes Wortbildungselement mit der Bedeutung: eine bestimmte Richtung, ein bestimmtes Ziel, einen Zielpunkt, mit welchem etwas in Berührung kommt; einen Ort, mit dem etwas in Berührung ist, einen Zeitpunkt, eine virtuelle Richtung
+auf:
+[1] etwas öffnen
+[2] Richtung einer Bewegung
+aus:
+[1] heraus; etwas oder sich entfernen
+be:
+[1] bezeichnet in Zusammensetzungen eine Bearbeitung oder Zustandsveränderung
+[2] bezeichnet in Zusammensetzungen eine Berührung
+[3] bezeichnet in Zusammensetzungen eine intensivere Beschäftigung mit oder Thematisierung von etwas
+[4] bildet vom Nomen ein Adjektiv mit Pseudopartizipform, weil es das entsprechende Verb gar nicht gibt
+[5] bildet als Vorsilbe ein transitives Verb aus einem zuvor intransitiven Verb
+[6] verschiebt als Vorsilbe eines Verbs den Fokus und verändert damit die Satzkonstruktion
+bei:
+[1] etwas hinzufügen
+dar:
+[1] in Zusammensetzungen bei Verben, abtrennbare Vorsilbe mit hinweisender (deiktischer) Bedeutung
+[2] erster Wortbestandteil (Konstituente) etlicher Pronominaladverbien mit hinweisender Bedeutung, wenn der zweite Wortbestandteil mit einem Vokal beginnt
+dran:
+[1] umgangssprachlich: eine direkte räumliche Berührung ausdrückend
+[2] umgangssprachlich, übertragen: allgemein einen Bezug ausdrückend
+durch:
+[1] in etwas hinein und auf der anderen Seite wieder heraus (wobei oft der Teil dazwischen das Wichtige ist)
+[2] eine Vermittler-Funktion, das heißt die Sache B wird durch die Sache A erreicht
+[3] über den ganzen Verlauf einer bestimmten Zeit [1]
+ein:
+[1] nach innen, integrieren
+ent:
+[1] nicht abtrennbares Präfix: wegführen von …, befreien von …
+[2] nicht abtrennbares Präfix: anfangen zu …
+[3] nicht abtrennbares Präfix: hinauslaufen auf …[1]
+[4] nicht abtrennbar, drückt das Gegenteil aus, besonders von Komposita mit be- und ver-
+er:
+[1] Vorsilbe, die ein Nachgeben oder unter Belastung Verändern ausdrückt
+[2] Vorsilbe, die eine zielgerichtete Handlung ausdrückt
+[3] Vorsilbe, die Tod oder eine Tötungshandlung ausdrückt
+[4] Vorsilbe, die einen Zugewinn ausdrückt
+[5] Vorsilbe, die einen Prozess des Größerwerdens ausdrückt
+fort:
+[1] in Zusammensetzungen: weg- von einem Ort
+[2] in Zusammensetzungen: weiter-, ohne Pause, ohne nachzulassen
+frei:
+[1] befreien; frei machen
+ge:
+[1] in Zusammensetzung mit einem Verb als Kennzeichnung des Partizip II
+[2] in Zusammensetzung mit einem Verb, um ein momentanes Geschehen, das oftmals den Beginn oder Abschluss eines Vorgangs markiert, zu kennzeichnen
+[3] in Zusammensetzung zu einem Substantiv zur Kollektivbildung
+[4] in Zusammensetzung zu einem Substantiv, um Zusammengehörigkeit, Zusammenfügung, Gemeinsamkeit auszudrücken
+[5] in Zusammensetzung zu einem Substantiv, um das Ergebnis des zugehörigen Verbs zu beschreiben
+[6] in Zusammensetzung zu einem Substantiv, um (oftmals abwertend) einen länger andauernden Vorgang zu beschreiben
+[7] in Zusammensetzung zu Adjektiv, Substantiv, Verb zur Verstärkung
+her:
+[1] verbales Präfix (räumlich): Bewegung in Richtung des Sprechenden
+[2] verbales Präfix, abwertend in Verbindung mit Verben des Sprechens: das im zugrundeliegenden Verb Genannte mechanisch, eintönig tun
+[3] verbales Präfix, selten: kann in Zusammensetzung mit Verben einen Zweck ausdrücken
+[4] adverbielles Präfix (räumlich): wie [1] in Zusammensetzung mit Adverbien
+[5] adverbielles Präfix (zeitlich): zum Beispiel hernach
+[6] süddeutsch, adverbielles Präfix (räumlich): hier
+hin:
+[1] verbales Präfix, immer betont, trennbar: von dem Sprechenden weg auf ein Ziel zu
+[2] verbales Präfix, immer betont, trennbar: nach unten an einen bestimmten Ort
+[3] verbales Präfix, immer betont, trennbar: gleichmäßige Bewegung ohne bestimmte Richtung, einförmiger Zustand; vor sich hin …
+[4] verbales Präfix, immer betont, trennbar: in Verbindung mit Verben des Schreibens und Sprechens: flüchtig, unüberlegt
+[5] adverbiales Präfix, immer unbetont: räumlich: von dem Sprechenden weg
+[6] adverbiales Präfix, immer unbetont: zeitlich
+hinter:
+[1] in Zusammensetzungen bei Verben, nicht abtrennbare Vorsilbe mit der Bedeutung: nach hinten, hinter etwas
+[2] in Zusammensetzungen bei Substantiven mit der Bedeutung: an der hinteren Seite gelegen
+[3] in Zusammensetzungen bei Substantiven mit dem Hinweis auf etwas Heimliches oder Zurückgelassenes
+[4] regional, in Zusammensetzungen bei Verben, abtrennbare Vorsilbe
+hoch:
+[1] in Zusammensetzungen bei Adjektiven als Verstärkung: in hohem Maße, sehr
+[2] in Zusammensetzungen bei Verben, abtrennbare Vorsilbe mit der Angabe der Bewegungsrichtung: nach oben, auf ein höheres Niveau
+[3] in Zusammensetzungen bei Substantiven: den Höhepunkt, die Hochphase betreffend
+mit:
+[1] etwas oder jemandem angeschlossen oder damit als gewisse Einheit verbunden; zusammen
+[2] unter Ausnutzung, durch die Hilfe von etwas
+nach:
+[1] zeitlich: Wortteil in Zusammensetzungen, der zum Ausdruck bringt, dass etwas später geschieht
+[2] räumlich: Wortteil in Zusammensetzungen, der für eine Verfolgung, ein Nachsetzen steht
+[3] Wortteil in Zusammensetzungen, der eine Wiederholung ausdrückt
+[4] Wortteil in Zusammensetzungen, der eine zielgerichtete Handlung des Imitierens ausdrückt
+[5] Wortteil in Zusammensetzungen, der allgemein intensivierend wirkt
+[6] Wortteil in Zusammensetzungen, der ausdrückt, dass etwas länger, in die Zukunft hinein, andauert
+tief:
+[1] räumlich weit nach unten ausgedehnt
+[2] übertragen, aber auch räumlich: nahe am Zentrum, Innersten
+über:
+[1] unabtrennbare Vorsilbe, die eine Überwindung oder einen Vorgang kennzeichnet
+[2] unabtrennbare Vorsilbe, die eine Bewegung über oder an etwas vorbei kennzeichnet
+[3] unabtrennbare Vorsilbe, die eine Anzahl oder Ausdehnung oberhalb eines bestimmten (Normal-)Wertes kennzeichnet
+[4] etwas was sich räumlich und/oder bildlich über etwas befindet
+um:
+[1] in der Zusammensetzung mit der räumlichen Bedeutung: um ein Objekt herum
+[2] in der Zusammensetzung im übertragenen Sinne: um etwas drumherum
+[3] in der Zusammensetzung mit Verben mit der Bedeutung: etwas von einem Zustand in einen anderen bringen
+[4] in der Zusammensetzung mit Verben mit der Bedeutung: die Richtung oder den Ort wechseln
+[5] in der Zusammensetzung mit Verben mit der Bedeutung: etwas zum Umkippen oder Umfallen bringen
+unter:
+[1] Präfix für Verben mit Betonung auf unter-, mit trennbarem Präfix: nach unten, unter etwas, in etwas hinein
+[2] Präfix für Verben, Betonung nicht auf unter-, mit untrennbarem Präfix: sich unter etwas befinden, unten stattfinden, unten liegend (räumlich, bildlich, vom Rang her)
+[3] Präfix für Verben, Betonung nicht auf unter-, mit untrennbarem Präfix: im Sinne eines zuwenig, mit negativer Wirkung durch die Unterschreitung
+[4] Präfix für Verben, diverse Spezialfälle wie zum Beispiel: von oben nach unten, von unten her, unter der Oberkleidung
+[5] Präfix für Substantive: räumlich unter etwas anderem
+[6] Präfix für Substantive: vom Rang oder der Bedeutung her unter etwas anderem
+ver:
+[1] eine Vorsilbe, die das betreffende Wort als negativ oder schwierig markiert
+[2] eine Vorsilbe, die die Bewegung eines Objekts markiert
+[3] eine Vorsilbe, die bestimmt, dass eine Sache mit etwas versehen wird
+[4] eine Vorsilbe, die Veränderung bis hin zur Zerstörung beschreibt
+[5] eine Vorsilbe, die Fehlverhalten beschreibt
+[6] eine Vorsilbe, die bestimmt, dass eine starke, schwer rückgängig zu machende Änderung auf den körperlichen oder seelischen Zustand von jemandem oder etwas einen starken Einfluss ausübt
+[7] eine Vorsilbe, die bei vielen Verben zu keiner besonderen Bedeutung führt
+vor:
+[1] räumlich: Bewegung vorwärts, nach vorne
+[2] räumlich: Bewegung, die an der Vorderseite von etwas stattfindet
+[3] räumlich: sichtbar sein oder werden
+[4] zeitlich: eine bereits vorher erledigte Sache oder eine Sache, die früher gestartet wurde
+[5] zeitlich: den Zeitpunkt der Ausführung nach vorne verschieben
+[6] einer Person etwas zueignen, es an sie richten
+[7] eine eindringliche Ermahnung
+[8] eine herausragende Stellung
+weg:
+[1] in der Zusammensetzung mit Verben mit der Bedeutung: von einem Punkt weg in eine andere Richtung
+[2] in der Zusammensetzung mit Verben mit der Bedeutung: fortschaffen, entfernen
+zer:
+[1] unabtrennbare Vorsilbe, die eine Teilung, Trennung, Auflösung oder Zerstörung bezeichnet
+zu:
+[1] etwas schließen
+[2] Bewegung zu einem Ziel
