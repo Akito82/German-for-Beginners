@@ -1,0 +1,57 @@
+{
+  "global": {
+    "total_xp": 329,
+    "total_level": 2,
+    "total_games_played": 129,
+    "total_correct_answers": 129,
+    "first_login": "2026-01-15T12:09:23.989653",
+    "last_login": "2026-01-16T17:17:38.496899"
+  },
+  "games": {
+    "word_builder": {
+      "xp": 10,
+      "level": 1,
+      "games_played": 3,
+      "best_score": 19,
+      "correct_answers": 3
+    },
+    "word_order": {
+      "xp": 20,
+      "level": 1,
+      "games_played": 2,
+      "best_score": 10,
+      "correct_answers": 2
+    },
+    "hangman": {
+      "xp": 48,
+      "level": 1,
+      "games_played": 5,
+      "best_score": 2,
+      "correct_answers": 5
+    },
+    "german_quiz": {
+      "xp": 29,
+      "level": 1,
+      "games_played": 7,
+      "best_score": 40,
+      "correct_answers": 7
+    },
+    "my_words": {
+      "xp": 222,
+      "level": 2,
+      "words_learned": 0,
+      "sessions_completed": 0,
+      "games_played": 112,
+      "correct_answers": 112,
+      "best_score": 0
+    }
+  },
+  "achievements": {
+    "first_game": true,
+    "level_5": false,
+    "level_10": false,
+    "perfect_game": false,
+    "streak_5": false,
+    "streak_10": false
+  }
+}

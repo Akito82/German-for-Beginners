@@ -1,0 +1,552 @@
+{
+  "slang_words": [
+    {
+      "german": "Kein Ding",
+      "english": "No problem"
+    },
+    {
+      "german": "Kein Plan",
+      "english": "No idea"
+    },
+    {
+      "german": "Keine Ahnung",
+      "english": "No idea"
+    },
+    {
+      "german": "Auf keinsten",
+      "english": "No way"
+    },
+    {
+      "german": "Abgespaced",
+      "english": "Wild"
+    },
+    {
+      "german": "Abgefahren",
+      "english": "Wicked"
+    },
+    {
+      "german": "Durchkauen",
+      "english": "To talk something through repeatedly"
+    },
+    {
+      "german": "Intelligenzbestie",
+      "english": "Egghead"
+    },
+    {
+      "german": "Labertasche",
+      "english": "Chatterbox"
+    },
+    {
+      "german": "Backpfeife",
+      "english": "A slap in the face"
+    },
+    {
+      "german": "Fackeln",
+      "english": "To hesitate"
+    },
+    {
+      "german": "Pumpen",
+      "english": "To work out at the gym"
+    },
+    {
+      "german": "Kopfkino",
+      "english": "Head game"
+    },
+    {
+      "german": "Krawall",
+      "english": "Turmoil"
+    },
+    {
+      "german": "Remmidemmi",
+      "english": "Turmoil"
+    },
+    {
+      "german": "Kreischi",
+      "english": "A screaming fan"
+    },
+    {
+      "german": "Blindfisch",
+      "english": "Someone who doesn't see well"
+    },
+    {
+      "german": "Ferkeln",
+      "english": "To bear a child"
+    },
+    {
+      "german": "Schnattern",
+      "english": "To talk quickly"
+    },
+    {
+      "german": "Büffeln",
+      "english": "To study"
+    },
+    {
+      "german": "Aalglatt",
+      "english": "Slick"
+    },
+    {
+      "german": "Naschkatze",
+      "english": "Someone who loves sweets"
+    },
+    {
+      "german": "Hosenstall",
+      "english": "Fly (of pants)"
+    },
+    {
+      "german": "Faulpelz",
+      "english": "Lazy person"
+    },
+    {
+      "german": "Blitzmerker",
+      "english": "Someone who is slow to notice"
+    },
+    {
+      "german": "Kleinkariert",
+      "english": "Petty-minded"
+    },
+    {
+      "german": "Ach wie schön",
+      "english": "Nice"
+    },
+    {
+      "german": "Aber hallo",
+      "english": "Definitely"
+    },
+    {
+      "german": "Auf jeden",
+      "english": "Definitely"
+    },
+    {
+      "german": "Klaro",
+      "english": "Sure"
+    },
+    {
+      "german": "Alles klar",
+      "english": "All right"
+    },
+    {
+      "german": "Wunderbar",
+      "english": "Wonderful"
+    },
+    {
+      "german": "Klasse",
+      "english": "Great"
+    },
+    {
+      "german": "Hurra",
+      "english": "Hooray"
+    },
+    {
+      "german": "Jippi",
+      "english": "Yippi"
+    },
+    {
+      "german": "Juhu",
+      "english": "Yay"
+    },
+    {
+      "german": "Auf jemanden abfahren",
+      "english": "To be into somebody"
+    },
+    {
+      "german": "Seinen Senf dazu geben",
+      "english": "To add one's two cents"
+    },
+    {
+      "german": "Sich einen abbrechen",
+      "english": "To try too hard"
+    },
+    {
+      "german": "Dumme Nuss",
+      "english": "Dummy"
+    },
+    {
+      "german": "Affentanz",
+      "english": "Fuss"
+    },
+    {
+      "german": "Ich verstehe nur Bahnhof",
+      "english": "I understand none of this"
+    },
+    {
+      "german": "Nicht alle Tassen im Schrank haben",
+      "english": "To be wild"
+    },
+    {
+      "german": "Auf links waschen",
+      "english": "To wash inside out"
+    },
+    {
+      "german": "Falsche Schlange",
+      "english": "Someone who isn't trustworthy"
+    },
+    {
+      "german": "Komischer Kauz",
+      "english": "Weirdo"
+    },
+    {
+      "german": "Für die Katz' sein",
+      "english": "To be all for nothing"
+    },
+    {
+      "german": "Jetzt geht's um die Wurst",
+      "english": "It's now or never"
+    },
+    {
+      "german": "Die beleidigte Leberwurst spielen",
+      "english": "To be in a huff"
+    },
+    {
+      "german": "Grottenschlecht",
+      "english": "Terrible"
+    },
+    {
+      "german": "Da haben wir den Salat!",
+      "english": "There we have it!"
+    },
+    {
+      "german": "Häufchen Elend",
+      "english": "Someone who is miserable"
+    },
+    {
+      "german": "Sich in die Haare kriegen",
+      "english": "To argue"
+    },
+    {
+      "german": "Klarschiff machen",
+      "english": "To clean up"
+    },
+    {
+      "german": "Sich vom Acker machen",
+      "english": "To leave"
+    },
+    {
+      "german": "Bombenwetter",
+      "english": "Clear weather"
+    },
+    {
+      "german": "Knall och Fall",
+      "english": "All of a sudden"
+    },
+    {
+      "german": "Das ist doch assi",
+      "english": "That sucks"
+    },
+    {
+      "german": "Pi mal Daumen",
+      "english": "Approximately"
+    },
+    {
+      "german": "Mach mal halblang",
+      "english": "Calm down"
+    },
+    {
+      "german": "Alles paletti",
+      "english": "Everything's ok"
+    },
+    {
+      "german": "Aus der Reihe tanzen",
+      "english": "To step out of the line"
+    },
+    {
+      "german": "Jemandem auf den Keks gehen",
+      "english": "To bug someone"
+    },
+    {
+      "german": "Pipapo",
+      "english": "With all the trimmings"
+    },
+    {
+      "german": "Nicht die Bohne",
+      "english": "Not at all"
+    },
+    {
+      "german": "Quatsch",
+      "english": "Nonsense"
+    },
+    {
+      "german": "Papperlapapp",
+      "english": "Nonsense"
+    },
+    {
+      "german": "Paps",
+      "english": "Dad"
+    },
+    {
+      "german": "Mutti",
+      "english": "Mom"
+    },
+    {
+      "german": "Funzen",
+      "english": "To function"
+    },
+    {
+      "german": "Abklatsch",
+      "english": "A cheap copy"
+    },
+    {
+      "german": "Abdrehen",
+      "english": "To go wild"
+    },
+    {
+      "german": "Horst",
+      "english": "Idiot"
+    },
+    {
+      "german": "Pfosten",
+      "english": "Idiot"
+    },
+    {
+      "german": "Förster",
+      "english": "Idiot"
+    },
+    {
+      "german": "Hirni",
+      "english": "Idiot"
+    },
+    {
+      "german": "Dulli",
+      "english": "Helpless or clumsy person"
+    },
+    {
+      "german": "Lusche",
+      "english": "Loser"
+    },
+    {
+      "german": "Zocken",
+      "english": "To play"
+    },
+    {
+      "german": "Chillig",
+      "english": "Relaxed"
+    },
+    {
+      "german": "Büx (Northern)",
+      "english": "Pants"
+    },
+    {
+      "german": "Blechen",
+      "english": "To pay involuntarily"
+    },
+    {
+      "german": "Baggage",
+      "english": "Rabble"
+    },
+    {
+      "german": "Bespaßen",
+      "english": "To make somebody have fun"
+    },
+    {
+      "german": "Betüddeln",
+      "english": "To look after someone"
+    },
+    {
+      "german": "Bummeln",
+      "english": "To take one's time"
+    },
+    {
+      "german": "Fachsimpeln",
+      "english": "To talk shop"
+    },
+    {
+      "german": "Etepetete",
+      "english": "Fussy"
+    },
+    {
+      "german": "Bolzen",
+      "english": "To play soccer"
+    },
+    {
+      "german": "Balla-balla",
+      "english": "Coo-coo"
+    },
+    {
+      "german": "Brüller",
+      "english": "Very funny joke"
+    },
+    {
+      "german": "Lachflash",
+      "english": "Laughing fit"
+    },
+    {
+      "german": "Faxen",
+      "english": "Shenanigans"
+    },
+    {
+      "german": "Bonze",
+      "english": "Rich person"
+    },
+    {
+      "german": "Kohle",
+      "english": "Money"
+    },
+    {
+      "german": "Betucht",
+      "english": "Very rich"
+    },
+    {
+      "german": "Betuppen",
+      "english": "To cheat someone"
+    },
+    {
+      "german": "Gewieft",
+      "english": "Cunning"
+    },
+    {
+      "german": "Flunsch",
+      "english": "Pout"
+    },
+    {
+      "german": "Schmollen",
+      "english": "To pout"
+    },
+    {
+      "german": "Glotzböbbel",
+      "english": "Big eyes"
+    },
+    {
+      "german": "Klackermatsch",
+      "english": "Mud to play with"
+    },
+    {
+      "german": "Kladderadatsch",
+      "english": "Mess"
+    },
+    {
+      "german": "Putzig",
+      "english": "Cute"
+    },
+    {
+      "german": "Schnuffig",
+      "english": "Cuddly"
+    },
+    {
+      "german": "Glipschig",
+      "english": "Slimy"
+    },
+    {
+      "german": "Sich kabbeln",
+      "english": "To squabble"
+    },
+    {
+      "german": "Hingucker",
+      "english": "Eye catcher"
+    },
+    {
+      "german": "Saugen",
+      "english": "To download"
+    },
+    {
+      "german": "Snacken",
+      "english": "To snack"
+    },
+    {
+      "german": "Knuspern",
+      "english": "To crunch"
+    },
+    {
+      "german": "Mampfen",
+      "english": "To munch"
+    },
+    {
+      "german": "Kieken",
+      "english": "To look"
+    },
+    {
+      "german": "Pusemuckel",
+      "english": "Any random place in the middle of nowhere"
+    },
+    {
+      "german": "Keck",
+      "english": "Cheeky"
+    },
+    {
+      "german": "Kess",
+      "english": "Cheeky"
+    },
+    {
+      "german": "Versifft",
+      "english": "Filthy"
+    },
+    {
+      "german": "Räudig",
+      "english": "Disgusting"
+    },
+    {
+      "german": "Kneipe",
+      "english": "Bar"
+    },
+    {
+      "german": "Vorglühen",
+      "english": "To pre-game"
+    },
+    {
+      "german": "Klette",
+      "english": "A clingy person"
+    },
+    {
+      "german": "Knabbern",
+      "english": "To munch"
+    },
+    {
+      "german": "Pille-Palle",
+      "english": "Easy-peasy"
+    },
+    {
+      "german": "Scheppern",
+      "english": "To clank"
+    },
+    {
+      "german": "Malochen",
+      "english": "To work hard"
+    },
+    {
+      "german": "Ranklotzen",
+      "english": "To work to the max"
+    },
+    {
+      "german": "Naschis",
+      "english": "Sweets"
+    },
+    {
+      "german": "Rabauke",
+      "english": "Ruffian"
+    },
+    {
+      "german": "Schlingel",
+      "english": "Rascal"
+    },
+    {
+      "german": "Kiddies",
+      "english": "Children"
+    },
+    {
+      "german": "Nucki",
+      "english": "Pacifier"
+    },
+    {
+      "german": "Ruckzuck",
+      "english": "Super fast"
+    },
+    {
+      "german": "Etwas peilen",
+      "english": "To understand something"
+    },
+    {
+      "german": "Perso",
+      "english": "ID"
+    },
+    {
+      "german": "Prio",
+      "english": "Priority"
+    },
+    {
+      "german": "Quali",
+      "english": "Quality"
+    },
+    {
+      "german": "Telen",
+      "english": "To phone"
+    }
+  ]
+}

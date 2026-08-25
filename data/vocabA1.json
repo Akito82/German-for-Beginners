@@ -1,0 +1,5693 @@
+[
+  {
+    "german_raw": "die",
+    "german": "Ansage",
+    "example": "Die nächste Ansage kommt gleich.",
+    "english": "announcement",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Anschluss",
+    "example": "Sie haben Anschluss nach Köln.",
+    "english": "connection",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Anschluss",
+    "example": "Der Telefonanschluss ist neu.",
+    "english": "connection",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "sein",
+    "example": "Das Licht war die ganze Nacht an.",
+    "english": "to be (switched) on",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "antworten",
+    "example": "Sie antwortet immer sofort.",
+    "english": "to answer",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Antwort",
+    "example": "Ich warte noch auf eine Antwort.",
+    "english": "answer",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Anzeige",
+    "example": "Die Anzeige in der Zeitung ist interessant.",
+    "english": "advert",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "anziehen",
+    "example": "Ich ziehe mich gleich an.",
+    "english": "to get dressed",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Apartment",
+    "example": "Das Apartment ist sehr modern.",
+    "english": "apartment",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Apfel",
+    "example": "Ich esse jeden Tag einen Apfel.",
+    "english": "apple",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Appetit",
+    "example": "Ich wünsche euch einen guten Appetit!",
+    "english": "appetite",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "arbeiten",
+    "example": "Er arbeitet bei einer Bank.",
+    "english": "to work",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Arbeit",
+    "example": "Seine Arbeit macht ihm Spaß.",
+    "english": "work",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "arbeitslos",
+    "example": "Viele junge Leute sind arbeitslos.",
+    "english": "unemployed",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Arbeitsplatz",
+    "example": "Mein Arbeitsplatz ist sehr ruhig.",
+    "english": "workplace",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Arm",
+    "example": "Sie hat sich den Arm gebrochen.",
+    "english": "arm",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Arzt",
+    "example": "Ich muss morgen zum Arzt.",
+    "english": "doctor",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "auch",
+    "example": "Mein Bruder kommt auch mit.",
+    "english": "also",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "auf",
+    "example": "Das Buch liegt auf dem Tisch.",
+    "english": "on",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "auf",
+    "example": "Auf Wiederhören!",
+    "english": "until",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "auf",
+    "example": "Wie sagt man das auf Englisch?",
+    "english": "in",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Aufgabe",
+    "example": "Die Aufgabe ist nicht schwer.",
+    "english": "task",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "aufhören",
+    "example": "Der Regen hört bald auf.",
+    "english": "to end",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "aufhören",
+    "example": "Hier hört die Straße auf.",
+    "english": "to end",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "sein",
+    "example": "Die Tür ist auf.",
+    "english": "to be open",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "aufstehen",
+    "example": "Ich stehe jeden Tag um sechs auf.",
+    "english": "to get up",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "aufstehen",
+    "example": "Kann ich bitte aufstehen?",
+    "english": "to get up",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Aufzug",
+    "example": "Der Aufzug ist leider kaputt.",
+    "english": "lift",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Auge",
+    "example": "Sie hat schöne Augen.",
+    "english": "eye",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "aus",
+    "example": "Ich komme aus der Türkei.",
+    "english": "from",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Ausflug",
+    "example": "Wir machen einen Ausflug ans Meer.",
+    "english": "excursion",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "ausfüllen",
+    "example": "Bitte füllen Sie das Formular aus.",
+    "english": "to fill out",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Ausgang",
+    "example": "Der Ausgang ist links.",
+    "english": "exit",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Auskunft",
+    "example": "Kann ich hier eine Auskunft bekommen?",
+    "english": "information/details",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Ausland",
+    "example": "Mein Bruder lebt im Ausland.",
+    "english": "abroad/overseas",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Ausländer",
+    "example": "In der Stadt gibt es viele Ausländer.",
+    "english": "foreigner",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "ausländisch",
+    "example": "Sie hat einen ausländischen Pass.",
+    "english": "foreign",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "ausmachen",
+    "example": "Mach bitte das Radio aus!",
+    "english": "to switch off",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Aussage",
+    "example": "Seine Aussage war nicht wahr.",
+    "english": "statement",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "aussehen",
+    "example": "Das Kleid sieht gut aus.",
+    "english": "to look",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "sein",
+    "example": "Die Heizung ist aus.",
+    "english": "to be (switched) off",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "sein",
+    "example": "Im Sommer ist die Schule aus.",
+    "english": "to be out",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "aussteigen",
+    "example": "Ich steige an der nächsten Haltestelle aus.",
+    "english": "to alight",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Ausweis",
+    "example": "Zeigen Sie bitte Ihren Ausweis.",
+    "english": "identity card",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "ausziehen",
+    "example": "Zieh bitte deine Jacke aus.",
+    "english": "to take off",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "ausziehen",
+    "example": "Ich ziehe mich aus und gehe ins Bett.",
+    "english": "to get undressed",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Auto",
+    "example": "Ihr Auto ist sehr schnell.",
+    "english": "car",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Autobahn",
+    "example": "Die Autobahn ist voll.",
+    "english": "motorway",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Automat",
+    "example": "Kaufen Sie die Karten am Automaten.",
+    "english": "machine",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "automatisch",
+    "example": "Das passiert automatisch.",
+    "english": "automatic",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Baby",
+    "example": "Das Baby schläft schon.",
+    "english": "baby",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Bäckerei",
+    "example": "Die Bäckerei hat frische Brötchen.",
+    "english": "bakery",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Bad",
+    "example": "Das Bad ist im ersten Stock.",
+    "english": "bathroom",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "baden",
+    "example": "Die Kinder baden gerne im See.",
+    "english": "to bathe",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Bahn",
+    "example": "Die Bahn fährt pünktlich ab.",
+    "english": "train",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Bahn",
+    "example": "Wir nehmen die letzte Bahn.",
+    "english": "train",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Bahnhof",
+    "example": "Der Bahnhof ist groß.",
+    "english": "train station",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Bahnsteig",
+    "example": "Der Zug fährt von Bahnsteig 3 ab.",
+    "english": "platform",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "bald",
+    "example": "Wir sehen uns bald wieder.",
+    "english": "soon",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Balkon",
+    "example": "Vom Balkon sieht man die Berge.",
+    "english": "balcony",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Banane",
+    "example": "Ich esse gerne Bananen.",
+    "english": "banana",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Bank",
+    "example": "Die Bank hat heute geschlossen.",
+    "english": "bank",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Bank",
+    "example": "Die alte Frau sitzt auf der Bank.",
+    "english": "bench",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "bar",
+    "example": "Kann ich bar bezahlen?",
+    "english": "cash",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Bauch",
+    "example": "Er hat Bauchschmerzen.",
+    "english": "stomach",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Baum",
+    "example": "Der Baum ist sehr hoch.",
+    "english": "tree",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Beamte",
+    "example": "Die Beamtin ist sehr freundlich.",
+    "english": "official",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "bedeuten",
+    "example": "Was bedeutet dieses Wort?",
+    "english": "to mean",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "beginnen",
+    "example": "Die Vorstellung beginnt um acht.",
+    "english": "to begin",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "bei",
+    "example": "Mein Dorf liegt bei Köln.",
+    "english": "next to",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "bei",
+    "example": "Er wohnt bei seiner Tante.",
+    "english": "at",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "uns",
+    "example": "Bei uns ist es immer warm.",
+    "english": "here / where we are",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "bei",
+    "example": "Mein Vater arbeitet bei der Stadt.",
+    "english": "for",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "beide",
+    "example": "Beide Kinder gehen zur Schule.",
+    "english": "both",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "beide",
+    "example": "Wir sind beide müde.",
+    "english": "both",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Bein",
+    "example": "Mein Bein ist eingeschlafen.",
+    "english": "leg",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Beispiel",
+    "example": "Kannst du mir ein Beispiel zeigen?",
+    "english": "example",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "Beispiel/z. B.",
+    "example": "Viele Früchte, z. B. Äpfel und Birnen, sind gesund.",
+    "english": "for example",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "bekannt",
+    "example": "Die Band ist weltweit bekannt.",
+    "english": "well known",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "Bekannte",
+    "example": "Das ist ein Bekannter von mir.",
+    "english": "acquaintance",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "bekommen",
+    "example": "Ich bekomme jeden Tag viele E-Mails.",
+    "english": "to receive",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "bekommen",
+    "example": "Was bekommen Sie zum Frühstück?",
+    "english": "to have",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "bekommen",
+    "example": "Das Medikament bekommen Sie in der Apotheke.",
+    "english": "to get",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "benutzen",
+    "example": "Darf ich Ihren Computer benutzen?",
+    "english": "to use",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Beruf",
+    "example": "Was ist Ihr Beruf?",
+    "english": "profession",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Beruf",
+    "example": "Mein Beruf ist sehr interessant.",
+    "english": "occupation",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "besetzt",
+    "example": "Die Telefonleitung ist besetzt.",
+    "english": "busy",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "besetzt",
+    "example": "Dieser Platz ist besetzt.",
+    "english": "taken",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "besichtigen",
+    "example": "Wir besichtigen morgen die Burg.",
+    "english": "to visit",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "besser",
+    "example": "Heute geht es mir besser.",
+    "english": "better",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "best-",
+    "example": "Am besten kommen wir um zehn.",
+    "english": "best",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "bestellen",
+    "example": "Ich möchte einen Kaffee bestellen.",
+    "english": "to order",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "bestellen",
+    "example": "Das Buch können wir für Sie bestellen.",
+    "english": "to order",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "besuchen",
+    "example": "Ich besuche meine Großeltern.",
+    "english": "to visit",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Bett",
+    "example": "Das Bett ist sehr bequem.",
+    "english": "bed",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "bezahlen",
+    "example": "Kann ich hier bezahlen?",
+    "english": "to pay",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Bier",
+    "example": "Ein Bier, bitte!",
+    "english": "beer",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Bild",
+    "example": "Das Bild hängt an der Wand.",
+    "english": "picture",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "billig",
+    "example": "Dieses Kleid war sehr billig.",
+    "english": "cheap",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Birne",
+    "example": "Die Birnen sind reif.",
+    "english": "pear",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "bis",
+    "example": "Der Zug fährt bis München.",
+    "english": "to (as far as)",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "bis",
+    "example": "Ich bleibe bis Freitag.",
+    "english": "until",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "bisschen",
+    "example": "Ich verstehe nur ein bisschen Deutsch.",
+    "english": "(a) little",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "bitte",
+    "example": "Zwei Kaffee, bitte!",
+    "english": "please",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "bitte",
+    "example": "Kommen Sie bitte herein!",
+    "english": "please",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Bitte",
+    "example": "Ich habe eine Bitte an dich.",
+    "english": "request",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "bitten",
+    "example": "Darf ich Sie um Hilfe bitten?",
+    "english": "to ask",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "bitter",
+    "example": "Die Zitrone schmeckt bitter.",
+    "english": "bitter",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "bleiben",
+    "example": "Ich bleibe heute zu Hause.",
+    "english": "to stay",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "bleiben",
+    "example": "Wir bleiben drei Tage.",
+    "english": "to stay",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Bleistift",
+    "example": "Kann ich deinen Bleistift haben?",
+    "english": "pencil",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Blick",
+    "example": "Vom Turm hat man einen tollen Blick.",
+    "english": "view",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Blume",
+    "example": "Die Blumen sind wunderschön.",
+    "english": "flower",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Bogen",
+    "example": "Schreiben Sie Ihre Antwort auf den Bogen.",
+    "english": "sheet",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "böse",
+    "example": "Er ist böse auf mich.",
+    "english": "angry",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "brauchen",
+    "example": "Ich brauche deine Hilfe.",
+    "english": "to need",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "breit",
+    "example": "Der Fluss ist sehr breit.",
+    "english": "wide",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Brief",
+    "example": "Ich habe einen Brief geschrieben.",
+    "english": "letter",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Briefmarke",
+    "example": "Eine Briefmarke kostet 80 Cent.",
+    "english": "(postage) stamp",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "bringen",
+    "example": "Bring mir bitte einen Kaffee!",
+    "english": "to bring",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "bringen",
+    "example": "Ich bringe das Kind zur Schule.",
+    "english": "to take",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Brot",
+    "example": "Kauf noch etwas Brot.",
+    "english": "bread",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Brot",
+    "example": "Zum Frühstück esse ich ein Brot.",
+    "english": "bread roll",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Brötchen",
+    "example": "Möchtest du ein Brötchen?",
+    "english": "bread roll",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Bruder",
+    "example": "Mein Bruder ist älter als ich.",
+    "english": "brother",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Buch",
+    "example": "Das Buch ist sehr spannend.",
+    "english": "book",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Wörterbuch",
+    "example": "Ein Wörterbuch hilft beim Lernen.",
+    "english": "dictionary",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Buchstabe",
+    "example": "Der erste Buchstabe ist ein A.",
+    "english": "letter (character)",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "buchstabieren",
+    "example": "Kannst du deinen Namen buchstabieren?",
+    "english": "to spell",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Bus",
+    "example": "Der Bus kommt in fünf Minuten.",
+    "english": "bus",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Butter",
+    "example": "Brot mit Butter mag ich sehr.",
+    "english": "butter",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Café",
+    "example": "Das Café hat leckeren Kuchen.",
+    "english": "cafe",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "CD",
+    "example": "Die CD ist neu.",
+    "english": "CD",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Chef",
+    "example": "Der Chef ist im Urlaub.",
+    "english": "boss",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "circa/ca.",
+    "example": "Die Reise dauert ca. drei Stunden.",
+    "english": "approximately",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Computer",
+    "example": "Mein Computer ist kaputt.",
+    "english": "computer",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "da",
+    "example": "Da vorne sehe ich das Haus.",
+    "english": "there",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "da",
+    "example": "Da kommt unsere Lehrerin.",
+    "english": "here",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "da",
+    "example": "Ich möchte das Buch da drüben.",
+    "english": "there",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "da",
+    "example": "Ist der Zug schon da?",
+    "english": "here",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Dame",
+    "example": "Für Damen und Herren.",
+    "english": "lady",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Dame",
+    "example": "Sehr geehrte Damen und Herren!",
+    "english": "lady",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "daneben",
+    "example": "Das Restaurant ist daneben.",
+    "english": "next to it",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "danken",
+    "example": "Ich danke dir für alles.",
+    "english": "to thank",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Dank",
+    "example": "Vielen Dank für Ihre Hilfe!",
+    "english": "thanks",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Dank",
+    "example": "Herzlichen Dank!",
+    "english": "thanks",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "danke",
+    "example": "Danke für deine Hilfe!",
+    "english": "thank you",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "dann",
+    "example": "Ich gehe einkaufen, dann komme ich zu dir.",
+    "english": "then (afterwards)",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Datum",
+    "example": "Das Datum ist der 15. Mai.",
+    "english": "date",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "dauern",
+    "example": "Der Film dauert zwei Stunden.",
+    "english": "to take (duration)",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "dein-",
+    "example": "Ist das dein Handy?",
+    "english": "your",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "dein-",
+    "example": "Ist das deins oder meins?",
+    "english": "yourself",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "denn",
+    "example": "Ich kann nicht kommen, denn ich bin krank.",
+    "english": "because",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "das",
+    "example": "Das da ist mein Hund.",
+    "english": "that",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "das",
+    "example": "Das Wetter ist schön.",
+    "english": "the",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "der",
+    "example": "Der Mann dort ist mein Vater.",
+    "english": "the",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "die",
+    "example": "Die Kinder spielen im Garten.",
+    "english": "the",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "dich",
+    "example": "Ich denke an dich.",
+    "english": "you",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "dies-",
+    "example": "Dieser Film ist gut.",
+    "english": "this",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "dir",
+    "example": "Das Buch gehört dir.",
+    "english": "you",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Disco",
+    "example": "Gehen wir heute in die Disco?",
+    "english": "disco",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Doktor",
+    "example": "Der Doktor kommt morgen.",
+    "english": "doctor",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Doppelzimmer",
+    "example": "Wir brauchen ein Doppelzimmer.",
+    "english": "double room",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Dorf",
+    "example": "Das Dorf ist sehr klein.",
+    "english": "village",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "dort",
+    "example": "Dort drüben ist der Bahnhof.",
+    "english": "there",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "dorthin",
+    "example": "Stell die Tasche dorthin.",
+    "english": "there (to that place, in that direction)",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "dorther",
+    "example": "Der Wind kommt dorther.",
+    "english": "from there",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "draußen",
+    "example": "Die Kinder spielen draußen.",
+    "english": "outside",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "drucken",
+    "example": "Kannst du dieses Dokument drucken?",
+    "english": "to print",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Drucker",
+    "example": "Der Drucker ist neu.",
+    "english": "printer",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "drücken",
+    "example": "Drücke den Knopf, bitte.",
+    "english": "to press",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "durch",
+    "example": "Wir gehen durch den Park.",
+    "english": "through",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Durchsage",
+    "example": "Die Durchsage war schwer zu verstehen.",
+    "english": "announcement",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "dürfen",
+    "example": "Hier darf man nicht rauchen.",
+    "english": "to be allowed",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "dürfen",
+    "example": "Darf ich das Fenster öffnen?",
+    "english": "to be allowed",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "dürfen",
+    "example": "Die Kinder dürfen heute länger aufbleiben.",
+    "english": "to be allowed",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Durst",
+    "example": "Nach dem Sport habe ich großen Durst.",
+    "english": "thirst",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "duschen",
+    "example": "Ich dusche jeden Morgen.",
+    "english": "to shower",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Dusche",
+    "example": "Die Dusche ist warm.",
+    "english": "shower",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Ecke",
+    "example": "Die Post ist um die Ecke.",
+    "english": "corner",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Ehefrau",
+    "example": "Das ist meine Ehefrau.",
+    "english": "wife",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Ehemann",
+    "example": "Das ist ihr Ehemann.",
+    "english": "husband",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Ei",
+    "example": "Ich esse gerne Eier.",
+    "english": "egg",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "eilig",
+    "example": "Ich habe es eilig.",
+    "english": "in a hurry",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "ein-",
+    "example": "Ich brauche einen Kugelschreiber.",
+    "english": "one / a",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "ein-",
+    "example": "Ist hier jemand, der helfen kann?",
+    "english": "someone",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "einfach",
+    "example": "Die Übung ist einfach.",
+    "english": "simple",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "einfach",
+    "example": "Eine einfache Fahrkarte, bitte.",
+    "english": "a single (ticket)",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "einfach",
+    "example": "Ich brauche ein einfaches Zimmer.",
+    "english": "simple",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Eingang",
+    "example": "Der Eingang ist rechts.",
+    "english": "entrance",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "einkaufen",
+    "example": "Ich gehe heute einkaufen.",
+    "english": "to go shopping",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "einladen",
+    "example": "Ich lade dich zum Abendessen ein.",
+    "english": "to invite / treat",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Einladung",
+    "example": "Vielen Dank für die Einladung!",
+    "english": "invitation",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "einmal",
+    "example": "Kannst du das bitte noch einmal sagen?",
+    "english": "again",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "einmal",
+    "example": "Ich war einmal in Berlin.",
+    "english": "once",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "einsteigen",
+    "example": "Der Zug fährt gleich, steig ein!",
+    "english": "to get on (board)",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Eintritt",
+    "example": "Der Eintritt kostet 5 Euro.",
+    "english": "entry",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Einzelzimmer",
+    "example": "Ich brauche ein Einzelzimmer.",
+    "english": "single room",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Eltern (pl.)",
+    "example": "Meine Eltern kommen zu Besuch.",
+    "english": "parents",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "E-Mail",
+    "example": "Ich habe dir eine E-Mail geschickt.",
+    "english": "email",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Empfänger",
+    "example": "Der Empfänger ist nicht zu Hause.",
+    "english": "recipient",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "empfehlen",
+    "example": "Welches Gericht empfehlen Sie?",
+    "english": "to recommend",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "enden",
+    "example": "Die Schule endet um zwölf.",
+    "english": "to end",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Ende",
+    "example": "Das ist das Ende der Straße.",
+    "english": "end",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Ende",
+    "example": "Am Ende des Monats ist die Miete fällig.",
+    "english": "end",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "entschuldigen",
+    "example": "Entschuldigen Sie mich, bitte!",
+    "english": "to excuse",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Entschuldigung",
+    "example": "Entschuldigung, wie spät ist es?",
+    "english": "excuse me",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "er",
+    "example": "Er arbeitet bei der Bank.",
+    "english": "he",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Ergebnis",
+    "example": "Das Ergebnis ist gut.",
+    "english": "result",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "erklären",
+    "example": "Kannst du mir die Regeln erklären?",
+    "english": "to explain",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "erlauben",
+    "example": "Parken ist hier nicht erlaubt.",
+    "english": "allow",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Erwachsene",
+    "example": "Dieses Spiel ist für Erwachsene.",
+    "english": "adult",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "erzählen",
+    "example": "Erzähl mir eine Geschichte.",
+    "english": "to tell",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "es",
+    "example": "Es schneit draußen.",
+    "english": "it",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "essen",
+    "example": "Die Kinder essen gerade.",
+    "english": "to eat",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Essen",
+    "example": "Das Essen schmeckt gut.",
+    "english": "food",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "euer",
+    "example": "Eure Wohnung ist schön.",
+    "english": "your [pl.]",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "fahren",
+    "example": "Ich fahre jedes Wochenende nach Hause.",
+    "english": "to travel",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Fahrer",
+    "example": "Der Fahrer wartet vor dem Haus.",
+    "english": "driver",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Fahrkarte",
+    "example": "Hast du eine Fahrkarte für den Bus?",
+    "english": "(transport) ticket",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Fahrrad",
+    "example": "Das Fahrrad ist kaputt.",
+    "english": "bicycle",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "falsch",
+    "example": "Das ist die falsche Antwort.",
+    "english": "wrong / incorrect",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Familie",
+    "example": "Die Familie ist groß.",
+    "english": "family",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Familienname",
+    "example": "Mein Familienname ist Schmidt.",
+    "english": "surname",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Familienstand",
+    "example": "Mein Familienstand ist verheiratet.",
+    "english": "family/marital status",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Farbe",
+    "example": "Rot ist meine Lieblingsfarbe.",
+    "english": "colour",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Fax",
+    "example": "Schick mir bitte ein Fax.",
+    "english": "fax",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Feierabend",
+    "example": "Um fünf habe ich Feierabend.",
+    "english": "end of work/home time",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Feiertag",
+    "example": "Am Montag ist Feiertag.",
+    "english": "bank holiday",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "feiern",
+    "example": "Wir feiern heute Geburtstag.",
+    "english": "to celebrate",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "fehlen",
+    "example": "Der Lehrer fehlt heute.",
+    "english": "to be absent",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "fehlen",
+    "example": "Was fehlt dir?",
+    "english": "to be missing",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Fehler",
+    "example": "Das ist ein typischer Fehler.",
+    "english": "mistake",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "fernsehen",
+    "example": "Heute Abend sehe ich fern.",
+    "english": "to watch TV",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "fertig",
+    "example": "Bist du fertig mit der Arbeit?",
+    "english": "finished / ready / done",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "fertig",
+    "example": "Das Essen ist fertig.",
+    "english": "finished / ready / done",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Feuer",
+    "example": "Hast du Feuer zum Anzünden?",
+    "english": "fire / lighter",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Fieber",
+    "example": "Das Kind hat Fieber.",
+    "english": "fever",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Film",
+    "example": "Der Film ist spannend.",
+    "english": "film",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "finden",
+    "example": "Ich finde den Schlüssel nicht.",
+    "english": "to find",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Firma",
+    "example": "Die Firma macht Maschinen.",
+    "english": "company",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Fisch",
+    "example": "Ich esse gerne Fisch.",
+    "english": "fish",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Flasche",
+    "example": "Die Flasche ist leer.",
+    "english": "bottle",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Fleisch",
+    "example": "Fleisch ist teuer geworden.",
+    "english": "meat",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "fliegen",
+    "example": "Ich fliege morgen nach Berlin.",
+    "english": "to fly",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "abfliegen",
+    "example": "Um zehn fliegen wir ab.",
+    "english": "to depart (by air)",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Abflug",
+    "example": "Der Abflug ist um acht Uhr.",
+    "english": "(flight) departure",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Flughafen",
+    "example": "Der Flughafen ist voll.",
+    "english": "airport",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Flugzeug",
+    "example": "Das Flugzeug ist gestartet.",
+    "english": "aeroplane",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Formular",
+    "example": "Bitte füllen Sie das Formular aus.",
+    "english": "form",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Foto",
+    "example": "Darf ich ein Foto machen?",
+    "english": "photograph",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "fragen",
+    "example": "Frag deine Mutter, bitte.",
+    "english": "to ask",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Frage",
+    "example": "Ich habe eine wichtige Frage.",
+    "english": "question",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Frau",
+    "example": "Frau Müller ist meine Lehrerin.",
+    "english": "Ms",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Frau",
+    "example": "Die Frau im roten Kleid ist meine Tante.",
+    "english": "woman",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Frauen",
+    "example": "Viele Frauen arbeiten heute.",
+    "english": "women",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "frei",
+    "example": "Ist dieser Platz noch frei?",
+    "english": "free",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Freizeit",
+    "example": "In meiner Freizeit lese ich gerne.",
+    "english": "free time",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "fremd",
+    "example": "Ich bin hier fremd.",
+    "english": "foreign",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "freuen",
+    "example": "Ich freue mich auf das Wochenende.",
+    "english": "to look forward",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Freund",
+    "example": "Das ist mein bester Freund.",
+    "english": "friend",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Freundin",
+    "example": "Das ist meine beste Freundin.",
+    "english": "friend / girlfriend",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "früher",
+    "example": "Früher habe ich in Berlin gewohnt.",
+    "english": "earlier / in the past",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "frühstücken",
+    "example": "Wir frühstücken um acht.",
+    "english": "to have breakfast",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Frühstück",
+    "example": "Zum Frühstück gibt es Brötchen.",
+    "english": "breakfast",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Führung",
+    "example": "Die Führung beginnt um zehn.",
+    "english": "tour",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "für",
+    "example": "Das Geschenk ist für dich.",
+    "english": "for",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "für",
+    "example": "Das ist der Schlüssel für die Tür.",
+    "english": "for",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "für",
+    "example": "Wir müssen für morgen einkaufen.",
+    "english": "for",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Fuß",
+    "example": "Meine Füße tun weh.",
+    "english": "foot",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Fußball",
+    "example": "Die Kinder spielen Fußball.",
+    "english": "football",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Garten",
+    "example": "Im Garten blühen die Blumen.",
+    "english": "garden",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Gast",
+    "example": "Wir haben heute viele Gäste.",
+    "english": "guest",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "geben",
+    "example": "Gib mir bitte das Buch.",
+    "english": "to give",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "gibt",
+    "example": "Es gibt heute keine Milch mehr.",
+    "english": "there is/are",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "geboren",
+    "example": "Ich bin 1990 geboren.",
+    "english": "born",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Geburtsjahr",
+    "example": "Ihr Geburtsjahr ist 1985.",
+    "english": "birth year",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Geburtsort",
+    "example": "Mein Geburtsort ist Hamburg.",
+    "english": "birthplace",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Geburtstag",
+    "example": "Herzlichen Glückwunsch zum Geburtstag!",
+    "english": "birthday",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "gefallen",
+    "example": "Mir gefällt das Haus sehr.",
+    "english": "to like",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "gegen",
+    "example": "Er ist gegen den Baum gefahren.",
+    "english": "into",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "gegen",
+    "example": "Ich bin gegen den Plan.",
+    "english": "against",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "gegen",
+    "example": "Deutschland spielt gegen Brasilien.",
+    "english": "against",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "gehen",
+    "example": "Das Gerät geht nicht mehr.",
+    "english": "to work/function",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "gehen",
+    "example": "Wie geht es dir?",
+    "english": "to go",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "gehen",
+    "example": "Ich muss jetzt gehen.",
+    "english": "to go",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "gehen",
+    "example": "Ich gehe zum Arzt.",
+    "english": "to go",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "gehen",
+    "example": "Das geht nicht, ich bin beschäftigt.",
+    "english": "to be okay",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "gehören",
+    "example": "Wem gehört dieser Koffer?",
+    "english": "to belong",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Geld",
+    "example": "Ich habe kein Geld dabei.",
+    "english": "money",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Gemüse",
+    "example": "Gemüse ist gesund.",
+    "english": "vegetables",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Gepäck",
+    "example": "Das Gepäck ist schwer.",
+    "english": "luggage",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "gerade",
+    "example": "Ich bin gerade gekommen.",
+    "english": "now",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "geradeaus",
+    "example": "Gehen Sie drei Straßen geradeaus.",
+    "english": "straight on",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "gern(e)",
+    "example": "Ich esse gerne Pizza.",
+    "english": "to like/enjoy doing",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Geschäft",
+    "example": "Das Geschäft hat um neun auf.",
+    "english": "shop",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Geschenk",
+    "example": "Das Geschenk ist für meine Mutter.",
+    "english": "present",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Geschwister (pl.)",
+    "example": "Ich habe zwei Geschwister.",
+    "english": "sibling",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Gespräch",
+    "example": "Das Gespräch war interessant.",
+    "english": "conversation/talk/call",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "gestern",
+    "example": "Gestern war ein schöner Tag.",
+    "english": "yesterday",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "gestorben",
+    "example": "Mein Großvater ist gestorben.",
+    "english": "died",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Getränk",
+    "example": "Was möchten Sie für ein Getränk?",
+    "english": "drink",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Gewicht",
+    "example": "Mein Gewicht ist 70 Kilo.",
+    "english": "weight",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "gewinnen",
+    "example": "Wer hat das Spiel gewonnen?",
+    "english": "to win",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Glas",
+    "example": "Kann ich ein Glas Wasser haben?",
+    "english": "glass",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Glas",
+    "example": "Die Gläser sind im Schrank.",
+    "english": "glasses",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "glauben",
+    "example": "Ich glaube dir.",
+    "english": "to believe",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "glauben",
+    "example": "Ich glaube, es wird regnen.",
+    "english": "to think",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "gleich",
+    "example": "Das ist mir ganz gleich.",
+    "english": "same",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "gleich",
+    "example": "Wir haben den gleichen Geschmack.",
+    "english": "same",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "gleich",
+    "example": "Ich komme gleich nach Hause.",
+    "english": "now",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Gleis",
+    "example": "Der Zug fährt von Gleis 7.",
+    "english": "platform",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Glück",
+    "example": "Viel Glück bei der Prüfung!",
+    "english": "luck",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "glücklich",
+    "example": "Sie sind glücklich miteinander.",
+    "english": "happily",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Glückwunsch",
+    "example": "Herzlichen Glückwunsch!",
+    "english": "congratulations",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "(Celsius)",
+    "example": "Es hat heute 25 Grad.",
+    "english": "degrees",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "gratulieren",
+    "example": "Wir gratulieren dir zum Erfolg.",
+    "english": "to congratulate",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "grillen",
+    "example": "Am Wochenende grillen wir.",
+    "english": "to (have a) barbecue",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "groß",
+    "example": "Mein Bruder ist sehr groß.",
+    "english": "tall",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "groß",
+    "example": "Berlin ist eine große Stadt.",
+    "english": "large",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Größe",
+    "example": "Welche Größe brauchen Sie?",
+    "english": "size",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Großeltern (pl.)",
+    "example": "Meine Großeltern wohnen in Bayern.",
+    "english": "grandparents",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Großmutter",
+    "example": "Meine Großmutter ist 80 Jahre alt.",
+    "english": "grandmother",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Großvater",
+    "example": "Mein Großvater war Soldat.",
+    "english": "grandfather",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Gruppe",
+    "example": "Wir sind eine Gruppe von zehn Leuten.",
+    "english": "group",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Gruß",
+    "example": "Grüße an deine Familie!",
+    "english": "regards",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Gruß",
+    "example": "Mit freundlichen Grüßen",
+    "english": "regards",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "gültig",
+    "example": "Der Ausweis ist noch gültig.",
+    "english": "valid",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "günstig",
+    "example": "Die Preise sind sehr günstig.",
+    "english": "cheap",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "gut",
+    "example": "Das finde ich sehr gut.",
+    "english": "good",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "gut",
+    "example": "Ich komme um zehn. / Gut!",
+    "english": "good",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "gut",
+    "example": "Guten Morgen!",
+    "english": "good",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "gut",
+    "example": "Ein gutes neues Jahr!",
+    "english": "good/happy",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "gut",
+    "example": "Guten Appetit!",
+    "english": "enjoy your meal",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Haar",
+    "example": "Sie hat blonde Haare.",
+    "english": "hair",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "haben",
+    "example": "Ich habe ein Problem.",
+    "english": "to have",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Hähnchen",
+    "example": "Ich esse gerne Hähnchen.",
+    "english": "chicken",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Halbpension",
+    "example": "Wir möchten Halbpension.",
+    "english": "board (dining)",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Halle",
+    "example": "Die Messe ist in Halle 4.",
+    "english": "hall",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "hallo",
+    "example": "Hallo, wie geht es dir?",
+    "english": "hello",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "halten",
+    "example": "Der Bus hält an der Haltestelle.",
+    "english": "to stop",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Haltestelle",
+    "example": "Die nächste Haltestelle ist gleich.",
+    "english": "(public transport) stop",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Hand",
+    "example": "Gib mir deine Hand.",
+    "english": "hand",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Handy",
+    "example": "Mein Handy ist kaputt.",
+    "english": "mobile telephone",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Haus",
+    "example": "Das Haus hat drei Stockwerke.",
+    "english": "house / building",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Haus",
+    "example": "Ich gehe nach Hause.",
+    "english": "home",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Haus",
+    "example": "Sie ist nicht zu Hause.",
+    "english": "home",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Hausaufgabe",
+    "example": "Die Hausaufgabe ist schwer.",
+    "english": "homework",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Hausfrau",
+    "example": "Meine Mutter ist Hausfrau.",
+    "english": "housewife",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Hausmann",
+    "example": "Mein Nachbar ist Hausmann.",
+    "english": "househusband",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Heimat",
+    "example": "Das ist meine Heimat.",
+    "english": "home",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "heiraten",
+    "example": "Sie heiraten im Mai.",
+    "english": "to marry",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "heißen",
+    "example": "Ich heiße Anna.",
+    "english": "to be called",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "heißen",
+    "example": "Wie heißt das auf Deutsch?",
+    "english": "to be called",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "helfen",
+    "example": "Kannst du mir helfen?",
+    "english": "to help",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "hell",
+    "example": "Das Zimmer ist sehr hell.",
+    "english": "light",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Herd",
+    "example": "Der Herd ist neu.",
+    "english": "stove",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Herr",
+    "example": "Herr Schmidt ist mein Chef.",
+    "english": "Mister",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "herzlich",
+    "example": "Herzlichen Dank!",
+    "english": "warm/heartfelt",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "heute",
+    "example": "Heute ist Montag.",
+    "english": "today",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "hier",
+    "example": "Hier ist meine Adresse.",
+    "english": "here",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "hier",
+    "example": "Hier wohne ich seit drei Jahren.",
+    "english": "here",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Hilfe",
+    "example": "Hilfe! Ich brauche Hilfe!",
+    "english": "help",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Hilfe",
+    "example": "Ich brauche deine Hilfe.",
+    "english": "help",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "hinten",
+    "example": "Die Toilette ist hinten im Gang.",
+    "english": "at/in the back",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Hobby",
+    "example": "Mein Hobby ist Fotografieren.",
+    "english": "hobby",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "hoch",
+    "example": "Das Gebäude ist hoch.",
+    "english": "high",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Hochzeit",
+    "example": "Die Hochzeit ist im Juni.",
+    "english": "marriage",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "holen",
+    "example": "Ich hole den Arzt.",
+    "english": "to fetch",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "hören",
+    "example": "Hörst du die Musik?",
+    "english": "to listen",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "hören",
+    "example": "Ich habe das schon gehört.",
+    "english": "to hear",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Hotel",
+    "example": "Das Hotel ist sehr gut.",
+    "english": "hotel",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Hund",
+    "example": "Der Hund ist braun.",
+    "english": "dog",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Hunger",
+    "example": "Ich habe großen Hunger.",
+    "english": "hunger",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "ich",
+    "example": "Ich heiße Peter.",
+    "english": "I",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "ihm/ihr",
+    "example": "Gib ihm das Geld.",
+    "english": "him/her",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "ihn",
+    "example": "Ich sehe ihn jeden Tag.",
+    "english": "him",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "immer",
+    "example": "Sie kommt immer zu spät.",
+    "english": "always",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "in",
+    "example": "Ich wohne in Berlin.",
+    "english": "in",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "in",
+    "example": "Der Zug kommt in zehn Minuten.",
+    "english": "in",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "in",
+    "example": "Sie arbeitet in einem Krankenhaus.",
+    "english": "in",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "in",
+    "example": "Wir gehen ins Kino.",
+    "english": "to",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Information",
+    "example": "Die Information ist im Hauptgebäude.",
+    "english": "information point",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Information",
+    "example": "Hier sind alle Informationen.",
+    "english": "information",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "international",
+    "example": "Die Firma ist international.",
+    "english": "international",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Internet",
+    "example": "Das findest du im Internet.",
+    "english": "internet",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "ja",
+    "example": "Ja, ich komme mit.",
+    "english": "yes",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Jacke",
+    "example": "Zieh eine Jacke an, es ist kalt.",
+    "english": "jacket",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "jed-",
+    "example": "Jeden Tag gehe ich spazieren.",
+    "english": "every",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "jetzt",
+    "example": "Jetzt muss ich gehen.",
+    "english": "now",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Job",
+    "example": "Er hat einen neuen Job.",
+    "english": "job",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Jugendliche",
+    "example": "Die Jugendlichen tanzen gern.",
+    "english": "youth/young person",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "jung",
+    "example": "Sie ist noch sehr jung.",
+    "english": "young",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Junge",
+    "example": "Der Junge spielt Fußball.",
+    "english": "boy",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Kaffee",
+    "example": "Ich trinke gerne Kaffee.",
+    "english": "coffee",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "kaputt",
+    "example": "Das Glas geht leicht kaputt.",
+    "english": "breakable/delicate",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "kaputt",
+    "example": "Die Tür ist kaputt.",
+    "english": "broken",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Karte",
+    "example": "Ich schreibe eine Karte aus dem Urlaub.",
+    "english": "card",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Karte",
+    "example": "Spielen wir Karten?",
+    "english": "card",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Karte",
+    "example": "Kann ich die Karte sehen?",
+    "english": "menu",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "(Kredit)-Karte",
+    "example": "Kann ich mit Karte zahlen?",
+    "english": "(credit) card",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Kartoffel",
+    "example": "Die Kartoffeln sind im Keller.",
+    "english": "potato",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Kasse",
+    "example": "Zahlen Sie an der Kasse.",
+    "english": "till",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "kaufen",
+    "example": "Ich kaufe ein neues Auto.",
+    "english": "to buy",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "kein",
+    "example": "Ich habe keine Zeit.",
+    "english": "no/none",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "kennen",
+    "example": "Kennen Sie Frau Meier?",
+    "english": "to know",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "kennenlernen",
+    "example": "Ich möchte dich kennenlernen.",
+    "english": "to get to know",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Kind",
+    "example": "Das Kind schläft schon.",
+    "english": "child",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Kindergarten",
+    "example": "Das Kind geht in den Kindergarten.",
+    "english": "kindergarten",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Kino",
+    "example": "Wir gehen heute ins Kino.",
+    "english": "cinema",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Kiosk",
+    "example": "Am Kiosk gibt es Zeitungen.",
+    "english": "kiosk",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "klar",
+    "example": "Kommst du mit? / Klar!",
+    "english": "of course / naturally",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Klasse",
+    "example": "Die Klasse hat 25 Schüler.",
+    "english": "class",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Klasse",
+    "example": "Ich fahre erster Klasse.",
+    "english": "class",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Kleidung",
+    "example": "Die Kleidung ist im Schrank.",
+    "english": "clothes",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "klein",
+    "example": "Das Haus ist sehr klein.",
+    "english": "small",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "kochen",
+    "example": "Mein Mann kocht gerne.",
+    "english": "to cook",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Koffer",
+    "example": "Der Koffer ist schwer.",
+    "english": "suitcase",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Kollege",
+    "example": "Das ist meine Kollegin.",
+    "english": "colleague",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "kommen",
+    "example": "Ich komme aus England.",
+    "english": "to come",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "kommen",
+    "example": "Kommst du mit ins Kino?",
+    "english": "to come",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "können",
+    "example": "Ich kann gut kochen.",
+    "english": "to be able to",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "können",
+    "example": "Kann ich das Fenster öffnen?",
+    "english": "to be able to",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Konto",
+    "example": "Ich habe ein Konto bei der Sparkasse.",
+    "english": "account",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Kopf",
+    "example": "Mir tut der Kopf weh.",
+    "english": "head",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "kosten",
+    "example": "Wie viel kostet das Ticket?",
+    "english": "to cost",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "krank",
+    "example": "Ich bin krank und bleibe zu Hause.",
+    "english": "ill",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "kriegen",
+    "example": "Ich kriege 20 Euro für die Arbeit.",
+    "english": "to get",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Küche",
+    "example": "Die Küche ist sehr modern.",
+    "english": "kitchen",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Kuchen",
+    "example": "Ich backe einen Kuchen.",
+    "english": "cake",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Kugelschreiber",
+    "example": "Hast du einen Kugelschreiber?",
+    "english": "ball-point pen",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Kühlschrank",
+    "example": "Die Milch ist im Kühlschrank.",
+    "english": "fridge",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "interessiert",
+    "example": "Ich bin an Kunst interessiert.",
+    "english": "interested",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "kulturell",
+    "example": "Das ist ein kulturelles Ereignis.",
+    "english": "cultural",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "kümmern",
+    "example": "Sie kümmert sich um die Kinder.",
+    "english": "to look after",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Kunde",
+    "example": "Der Kunde ist zufrieden.",
+    "english": "customer",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Kurs",
+    "example": "Der Deutschkurs beginnt im März.",
+    "english": "course",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "kurz",
+    "example": "Sie hat kurze Haare.",
+    "english": "short",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "lachen",
+    "example": "Die Kinder lachen laut.",
+    "english": "to laugh",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Laden",
+    "example": "Der Laden hat geöffnet.",
+    "english": "shop",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Land",
+    "example": "Frankreich ist ein schönes Land.",
+    "english": "country",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "lang",
+    "example": "Das Kleid ist zu lang.",
+    "english": "long",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "lange",
+    "example": "Wie lange bleibst du?",
+    "english": "long",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "langsam",
+    "example": "Bitte sprich langsamer.",
+    "english": "slow",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "laufen",
+    "example": "Ich laufe jeden Tag eine Stunde.",
+    "english": "to walk/run",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "laut",
+    "example": "Die Musik ist zu laut.",
+    "english": "loud",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "leben",
+    "example": "Ich lebe in Hamburg.",
+    "english": "to live",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "leben",
+    "example": "Seine Eltern leben noch.",
+    "english": "to live",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Leben",
+    "example": "Das Leben ist schön.",
+    "english": "life",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Lebensmittel (pl.)",
+    "example": "Lebensmittel kaufen wir im Supermarkt.",
+    "english": "food",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "ledig",
+    "example": "Ich bin ledig.",
+    "english": "single",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "legen",
+    "example": "Legen Sie das Buch auf den Tisch.",
+    "english": "to put",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Lehrer",
+    "example": "Die Lehrerin ist sehr nett.",
+    "english": "teacher",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "leicht",
+    "example": "Die Tasche ist leicht.",
+    "english": "light (weight)",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "leicht",
+    "example": "Die Aufgabe ist leicht.",
+    "english": "easy",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "leider",
+    "example": "Leider kann ich nicht kommen.",
+    "english": "unfortunately",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "leise",
+    "example": "Seid bitte leise!",
+    "english": "quiet",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "lernen",
+    "example": "Ich lerne Deutsch.",
+    "english": "to learn",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "lesen",
+    "example": "Ich lese gerne Bücher.",
+    "english": "to read",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "letzt-",
+    "example": "Letzte Woche war ich in Berlin.",
+    "english": "last",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Leute (pl.)",
+    "example": "Viele Leute sind auf der Straße.",
+    "english": "people",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Licht",
+    "example": "Mach das Licht an, bitte.",
+    "english": "light",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "lieb-",
+    "example": "Liebe Oma, lieber Opa,",
+    "english": "dear",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "lieben",
+    "example": "Ich liebe meine Familie.",
+    "english": "to love",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "lieber",
+    "example": "Ich fahre lieber mit dem Zug.",
+    "english": "to prefer",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "Lieblings-",
+    "example": "Das ist mein Lieblingsfilm.",
+    "english": "favourite",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Lied",
+    "example": "Das Lied ist sehr schön.",
+    "english": "song",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "liegen",
+    "example": "Das Buch liegt auf dem Tisch.",
+    "english": "to lie",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "liegen",
+    "example": "München liegt im Süden.",
+    "english": "to lie / be located",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "links",
+    "example": "Biegen Sie links ab.",
+    "english": "left",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Lkw",
+    "example": "Der Lkw ist sehr lang.",
+    "english": "HGV",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Lokal",
+    "example": "Das Lokal ist voll.",
+    "english": "pub",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Lösung",
+    "example": "Die Lösung ist auf der letzten Seite.",
+    "english": "solution",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "lustig",
+    "example": "Der Film ist sehr lustig.",
+    "english": "funny",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "machen",
+    "example": "Was machst du heute?",
+    "english": "to do",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "machen",
+    "example": "Ich mache einen Kuchen.",
+    "english": "to make",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "machen",
+    "example": "Das macht 15 Euro.",
+    "english": "to come to",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "machen",
+    "example": "Das macht nichts.",
+    "english": "that doesn't matter",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Mädchen",
+    "example": "Das Mädchen ist fünf Jahre alt.",
+    "english": "girl",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "man",
+    "example": "Hier darf man nicht parken.",
+    "english": "one / impersonal 'you'",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Mann",
+    "example": "Der Mann im Anzug ist mein Chef.",
+    "english": "man / husband",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "männlich",
+    "example": "Bitte ankreuzen: männlich oder weiblich.",
+    "english": "male",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Maschine",
+    "example": "Die Maschine ist kaputt.",
+    "english": "machine",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Meer",
+    "example": "Wir fahren ans Meer.",
+    "english": "sea",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "mehr",
+    "example": "Ich möchte mehr Zeit.",
+    "english": "more",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "mein",
+    "example": "Mein Bruder ist Arzt.",
+    "english": "my",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "meist-",
+    "example": "Die meisten Schüler sind krank.",
+    "english": "most",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Mensch",
+    "example": "Die Menschen sind freundlich.",
+    "english": "people",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "mieten",
+    "example": "Wir mieten eine Wohnung.",
+    "english": "to rent",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Miete",
+    "example": "Die Miete ist teuer.",
+    "english": "rent",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Milch",
+    "example": "Trinkst du Milch?",
+    "english": "milk",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "mit",
+    "example": "Kaffee mit Milch, bitte.",
+    "english": "with",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "mitbringen",
+    "example": "Kannst du mir etwas mitbringen?",
+    "english": "to bring with one / to get (sth. for sb.)",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "mitkommen",
+    "example": "Kommst du mit zum Einkaufen?",
+    "english": "to come with",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "mitmachen",
+    "example": "Wir machen bei dem Spiel mit.",
+    "english": "to join in",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "mitnehmen",
+    "example": "Kann ich das Buch mitnehmen?",
+    "english": "to take with",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Mitte",
+    "example": "Der Stift liegt in der Mitte.",
+    "english": "middle",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Möbel (pl.)",
+    "example": "Die Möbel sind neu.",
+    "english": "furniture",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "möchten",
+    "example": "Ich möchte einen Kaffee.",
+    "english": "would like to",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "mögen",
+    "example": "Magst du Schokolade?",
+    "english": "to like",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "möglich",
+    "example": "Es ist möglich, dass es regnet.",
+    "english": "possible",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Moment",
+    "example": "Moment, ich komme gleich.",
+    "english": "moment",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Moment",
+    "example": "Einen Moment, bitte.",
+    "english": "moment",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "morgen",
+    "example": "Morgen fahre ich nach Berlin.",
+    "english": "tomorrow",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "müde",
+    "example": "Ich bin sehr müde.",
+    "english": "tired",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Mund",
+    "example": "Mach den Mund auf.",
+    "english": "mouth",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "müssen",
+    "example": "Ich muss zur Arbeit gehen.",
+    "english": "to have to",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Mutter",
+    "example": "Meine Mutter ist krank.",
+    "english": "mother",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "nach",
+    "example": "Ich gehe nach Hause.",
+    "english": "to (somewhere)",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "nach",
+    "example": "Wir fliegen nach Spanien.",
+    "english": "to (somewhere)",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "nach",
+    "example": "Es ist fünf nach zwölf.",
+    "english": "after / past (time)",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "nächst-",
+    "example": "Nächste Woche habe ich Urlaub.",
+    "english": "next",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Name",
+    "example": "Mein Name ist Müller.",
+    "english": "name",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Name",
+    "example": "Mein Vorname ist Maria.",
+    "english": "name",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "nehmen",
+    "example": "Ich nehme den Salat.",
+    "english": "to have (food/drink)",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "nehmen",
+    "example": "Ich nehme den Zug um acht.",
+    "english": "to take",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "nein",
+    "example": "Nein, danke.",
+    "english": "no",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "neu",
+    "example": "Ich bin neu hier.",
+    "english": "new",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "neu",
+    "example": "Das ist mein neues Auto.",
+    "english": "new",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "nicht",
+    "example": "Das ist nicht richtig.",
+    "english": "not",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "nicht",
+    "example": "Das ist schön, nicht?",
+    "english": "no",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "nichts",
+    "example": "Das macht nichts.",
+    "english": "that doesn't matter",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "nichts",
+    "example": "Ich habe nichts gesehen.",
+    "english": "nothing",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "nie",
+    "example": "Ich habe nie Zeit.",
+    "english": "never",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "noch",
+    "example": "Er arbeitet noch.",
+    "english": "still",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "noch",
+    "example": "Wir warten noch fünf Minuten.",
+    "english": "another",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "noch",
+    "example": "Ich habe noch genug Geld.",
+    "english": "still",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "normal",
+    "example": "Das ist ganz normal.",
+    "english": "normal",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Nummer",
+    "example": "Was ist Ihre Hausnummer?",
+    "english": "number",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Nummer",
+    "example": "Gib mir deine Telefonnummer.",
+    "english": "number",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "nur",
+    "example": "Ich habe nur 10 Euro.",
+    "english": "only",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "oben",
+    "example": "Wir wohnen oben.",
+    "english": "upstairs",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Obst",
+    "example": "Obst ist gesund.",
+    "english": "fruit",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "oder",
+    "example": "Möchten Sie Tee oder Kaffee?",
+    "english": "or",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "öffnen",
+    "example": "Ich öffne das Fenster.",
+    "english": "to open",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "geöffnet",
+    "example": "Das Geschäft ist geöffnet.",
+    "english": "open",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "oft",
+    "example": "Ich gehe oft spazieren.",
+    "english": "often",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "ohne",
+    "example": "Ohne Zucker, bitte.",
+    "english": "without",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Öl",
+    "example": "Das Öl ist gut für die Haut.",
+    "english": "oil",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Oma",
+    "example": "Meine Oma ist 90 Jahre alt.",
+    "english": "grandmother",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Opa",
+    "example": "Mein Opa erzählt gerne Geschichten.",
+    "english": "grandfather",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Ordnung",
+    "example": "Alles in Ordnung?",
+    "english": "ok/alright",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Ort",
+    "example": "Das ist ein schöner Ort.",
+    "english": "location / place",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Papier",
+    "example": "Ich brauche Papier und Stift.",
+    "english": "paper",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Papiere (pl.)",
+    "example": "Bitte zeigen Sie Ihre Papiere.",
+    "english": "papers",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Partner",
+    "example": "Das ist mein Partner.",
+    "english": "(male) partner",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Partnerin",
+    "example": "Das ist meine Partnerin.",
+    "english": "(female) partner",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Party",
+    "example": "Die Party war toll.",
+    "english": "party",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Pass",
+    "example": "Mein Pass ist abgelaufen.",
+    "english": "passport",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Pause",
+    "example": "Wir machen jetzt eine Pause.",
+    "english": "break",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Plan",
+    "example": "Ich habe einen Plan.",
+    "english": "map / plan",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Platz",
+    "example": "Entschuldigung, ist hier noch Platz?",
+    "english": "seat",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Platz",
+    "example": "Bitte nehmen Sie Platz.",
+    "english": "seat",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Platz",
+    "example": "Der Platz ist sehr schön.",
+    "english": "square",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Polizei",
+    "example": "Ruf die Polizei!",
+    "english": "police",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Pommes frites (pl.)",
+    "example": "Wir essen Pommes frites.",
+    "english": "chips",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Post",
+    "example": "Die Post ist um die Ecke.",
+    "english": "post office",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Post",
+    "example": "Hast du die Post gesehen?",
+    "english": "post / mail",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Postleitzahl",
+    "example": "Die Postleitzahl ist 60313.",
+    "english": "postcode",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Praktikum",
+    "example": "Ich mache ein Praktikum.",
+    "english": "internship",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Praxis",
+    "example": "Die Praxis hat geöffnet.",
+    "english": "practice",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Preis",
+    "example": "Der Preis ist zu hoch.",
+    "english": "price",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Problem",
+    "example": "Wir haben ein Problem.",
+    "english": "problem",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Prospekt",
+    "example": "Hier ist ein Prospekt vom Hotel.",
+    "english": "brochure",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Prüfung",
+    "example": "Die Prüfung ist schwer.",
+    "english": "examination",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "pünktlich",
+    "example": "Der Zug kommt pünktlich um acht.",
+    "english": "sharp",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "pünktlich",
+    "example": "Sie ist immer pünktlich.",
+    "english": "punctual",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "fahren",
+    "example": "Das Kind fährt Fahrrad.",
+    "english": "to cycle",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "rauchen",
+    "example": "Hier darf man nicht rauchen.",
+    "english": "to smoke",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Raum",
+    "example": "Der Raum ist groß.",
+    "english": "room",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Rechnung",
+    "example": "Die Rechnung, bitte!",
+    "english": "bill",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "rechts",
+    "example": "Gehen Sie rechts weiter.",
+    "english": "right",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "regnen",
+    "example": "Es regnet heute.",
+    "english": "to rain",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Regen",
+    "example": "Der Regen hat aufgehört.",
+    "english": "rain",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Reis",
+    "example": "Ich esse gerne Reis.",
+    "english": "rice",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "reisen",
+    "example": "Ich reise gern.",
+    "english": "to travel",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Reise",
+    "example": "Die Reise war wunderbar.",
+    "english": "journey / trip",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Reisebüro",
+    "example": "Das Reisebüro ist geschlossen.",
+    "english": "travel agency",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Reiseführer",
+    "example": "Der Reiseführer ist sehr hilfreich.",
+    "english": "travel guide",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Reiseführer",
+    "example": "Unser Reiseführer ist sehr nett.",
+    "english": "tour guide",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "reparieren",
+    "example": "Ich muss das Fahrrad reparieren.",
+    "english": "to repair",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Reparatur",
+    "example": "Die Reparatur kostet 50 Euro.",
+    "english": "repair",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Restaurant",
+    "example": "Das Restaurant ist sehr gut.",
+    "english": "restaurant",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Rezeption",
+    "example": "Die Rezeption ist im ersten Stock.",
+    "english": "reception",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "richtig",
+    "example": "Habe ich das richtig verstanden?",
+    "english": "correct",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "richtig",
+    "example": "Die Antwort ist richtig.",
+    "english": "right / correct",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "riechen",
+    "example": "Das Essen riecht gut.",
+    "english": "to smell",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "ruhig",
+    "example": "Wir brauchen ein ruhiges Zimmer.",
+    "english": "quiet",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Saft",
+    "example": "Ich trinke gerne Orangensaft.",
+    "english": "juice",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "sagen",
+    "example": "Sag mir die Wahrheit.",
+    "english": "to say / tell",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Salat",
+    "example": "Der Salat ist frisch.",
+    "english": "salad",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Salz",
+    "example": "Kannst du mir das Salz geben?",
+    "english": "salt",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Satz",
+    "example": "Der Satz ist zu lang.",
+    "english": "sentence",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "S-Bahn",
+    "example": "Ich fahre mit der S-Bahn.",
+    "english": "commuter train",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Schalter",
+    "example": "Gehen Sie zu Schalter 4.",
+    "english": "counter",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "scheinen",
+    "example": "Die Sonne scheint.",
+    "english": "to shine",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "schicken",
+    "example": "Ich schicke dir eine E-Mail.",
+    "english": "to send",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Schild",
+    "example": "Das Schild ist rot.",
+    "english": "sign",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Schinken",
+    "example": "Ein Schinkenbrot, bitte.",
+    "english": "ham",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "schlafen",
+    "example": "Die Kinder schlafen schon.",
+    "english": "to sleep",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "schlecht",
+    "example": "Mir ist schlecht.",
+    "english": "sick",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "schlecht",
+    "example": "Das Wetter ist schlecht.",
+    "english": "bad",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "schlecht",
+    "example": "Sie sehen schlecht aus.",
+    "english": "bad",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "schließen",
+    "example": "Schließen Sie die Tür, bitte.",
+    "english": "to close",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "geschlossen",
+    "example": "Das Museum ist geschlossen.",
+    "english": "closed",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Schluss",
+    "example": "Ich muss Schluss machen.",
+    "english": "to finish/end",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Schluss",
+    "example": "Zum Schluss gab es Kaffee.",
+    "english": "end",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Schlüssel",
+    "example": "Ich habe den Schlüssel verloren.",
+    "english": "key",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "schmecken",
+    "example": "Die Pizza schmeckt gut.",
+    "english": "to taste",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "schnell",
+    "example": "Das Auto ist schnell.",
+    "english": "quick / fast",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "schon",
+    "example": "Das Essen ist schon fertig.",
+    "english": "already",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "schön",
+    "example": "Schönen Tag noch!",
+    "english": "lovely",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "schön",
+    "example": "Die Aussicht ist wunderschön.",
+    "english": "beautiful",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Schrank",
+    "example": "Die Kleider sind im Schrank.",
+    "english": "cupboard",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "schreiben",
+    "example": "Ich schreibe einen Brief.",
+    "english": "to write",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Schuh",
+    "example": "Meine Schuhe sind neu.",
+    "english": "shoe",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Schule",
+    "example": "Die Kinder gehen in die Schule.",
+    "english": "school",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Schule",
+    "example": "Die Schule ist um die Ecke.",
+    "english": "school",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Schüler",
+    "example": "Die Schüler lernen Deutsch.",
+    "english": "pupil",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "schwer",
+    "example": "Der Koffer ist schwer.",
+    "english": "heavy",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "schwer",
+    "example": "Die Prüfung ist schwer.",
+    "english": "difficult",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Schwester",
+    "example": "Meine Schwester ist jünger.",
+    "english": "sister",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "schwimmen",
+    "example": "Ich schwimme gerne.",
+    "english": "to swim",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Schwimmbad",
+    "example": "Das Schwimmbad ist geöffnet.",
+    "english": "swimming pool",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "See",
+    "example": "Wir gehen zum See.",
+    "english": "lake",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "sehen",
+    "example": "Ich sehe den Turm.",
+    "english": "to see",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "sehen",
+    "example": "Ich habe ihn gestern gesehen.",
+    "english": "to see",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Sehenswürdigkeit",
+    "example": "Das ist eine berühmte Sehenswürdigkeit.",
+    "english": "sights/attractions",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "sehr",
+    "example": "Danke sehr!",
+    "english": "very",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "sehr",
+    "example": "Das ist sehr gut.",
+    "english": "very",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "sein",
+    "example": "Das ist sein Buch.",
+    "english": "his",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "sein",
+    "example": "Mir ist kalt.",
+    "english": "to be",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "sein",
+    "example": "Ich bin 25 Jahre alt.",
+    "english": "to be",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "sein",
+    "example": "Das Licht ist noch an.",
+    "english": "to be on",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "sein",
+    "example": "Das Fenster ist auf.",
+    "english": "to be open",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "sein",
+    "example": "Der Brief ist weg.",
+    "english": "to be gone",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "sein",
+    "example": "Die Tür ist zu.",
+    "english": "to be closed",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "seit",
+    "example": "Ich wohne seit 2015 in Köln.",
+    "english": "for (an amount of time)",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "selbstständig",
+    "example": "Er ist selbstständig.",
+    "english": "independent",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "sich",
+    "example": "Sie müssen sich ausruhen.",
+    "english": "yourself",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "sie",
+    "example": "Sie heißt Maria.",
+    "english": "she",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "Sie",
+    "example": "Wie heißen Sie?",
+    "english": "you (polite)",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "sitzen",
+    "example": "Wir sitzen im Garten.",
+    "english": "to sit",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "so",
+    "example": "Machen Sie es so!",
+    "english": "like this",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "so",
+    "example": "Fahren Sie nicht so schnell!",
+    "english": "so",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "so",
+    "example": "Er ist so groß wie ich.",
+    "english": "as",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "so",
+    "example": "So, jetzt bin ich fertig.",
+    "english": "so",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Sofa",
+    "example": "Das Sofa ist bequem.",
+    "english": "sofa",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "sofort",
+    "example": "Komm sofort her!",
+    "english": "immediately",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Sohn",
+    "example": "Mein Sohn ist zehn Jahre alt.",
+    "english": "son",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "sollen",
+    "example": "Soll ich dir helfen?",
+    "english": "should",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "sollen",
+    "example": "Was soll ich machen?",
+    "english": "should",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Sonne",
+    "example": "Die Sonne scheint hell.",
+    "english": "sun",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "spät",
+    "example": "Es ist schon spät.",
+    "english": "late",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "später",
+    "example": "Wir sehen uns später.",
+    "english": "later",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Speisekarte",
+    "example": "Die Speisekarte ist auf Deutsch.",
+    "english": "menu",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "spielen",
+    "example": "Die Kinder spielen im Park.",
+    "english": "to play",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "spielen",
+    "example": "Wir spielen Karten.",
+    "english": "to play",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Sport",
+    "example": "Sport ist gesund.",
+    "english": "sport",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Sprache",
+    "example": "Deutsch ist eine schöne Sprache.",
+    "english": "language",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "sprechen",
+    "example": "Kann ich mit Herrn Meier sprechen?",
+    "english": "to speak",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Stadt",
+    "example": "Die Stadt ist sehr alt.",
+    "english": "town / city",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "stehen",
+    "example": "Hier steht mein Name.",
+    "english": "to be (written)",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "stehen",
+    "example": "Der Zug steht am Bahnsteig.",
+    "english": "to be (located)",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Stelle",
+    "example": "Sie hat eine neue Stelle.",
+    "english": "job / position",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "stellen",
+    "example": "Stell die Tasse auf den Tisch.",
+    "english": "to put",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Stock",
+    "example": "Wir wohnen im zweiten Stock.",
+    "english": "floor (of a building)",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Straße",
+    "example": "Die Straße ist lang.",
+    "english": "street",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Straßenbahn",
+    "example": "Die Straßenbahn fährt alle zehn Minuten.",
+    "english": "tram",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "studieren",
+    "example": "Ich studiere Medizin.",
+    "english": "to study",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Studium",
+    "example": "Das Studium ist sehr interessant.",
+    "english": "degree course",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Student",
+    "example": "Ich bin Studentin.",
+    "english": "student",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Stunde",
+    "example": "Ich komme in einer Stunde.",
+    "english": "hour",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "suchen",
+    "example": "Ich suche mein Handy.",
+    "english": "to look / search for",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "tanzen",
+    "example": "Tanzt du gern?",
+    "english": "to dance",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Tasche",
+    "example": "Die Tasche ist schwer.",
+    "english": "bag",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Taxi",
+    "example": "Wir nehmen ein Taxi.",
+    "english": "taxi",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Tee",
+    "example": "Trinkst du Tee oder Kaffee?",
+    "english": "tea",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Teil",
+    "example": "Das ist der erste Teil.",
+    "english": "part",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "telefonieren",
+    "example": "Ich muss kurz telefonieren.",
+    "english": "to telephone",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Telefon",
+    "example": "Das Telefon klingelt.",
+    "english": "telephone",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Termin",
+    "example": "Ich habe einen Termin beim Arzt.",
+    "english": "appointment",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Test",
+    "example": "Der Test war einfach.",
+    "english": "test",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "teuer",
+    "example": "Das Auto ist sehr teuer.",
+    "english": "expensive",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Text",
+    "example": "Der Text ist schwer.",
+    "english": "text",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Thema",
+    "example": "Das Thema ist interessant.",
+    "english": "topic",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Ticket",
+    "example": "Ich habe zwei Tickets gekauft.",
+    "english": "ticket",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Tisch",
+    "example": "Das Buch liegt auf dem Tisch.",
+    "english": "table",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Tochter",
+    "example": "Meine Tochter ist fünf Jahre alt.",
+    "english": "daughter",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Toilette",
+    "example": "Wo ist die Toilette?",
+    "english": "toilet",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Tomate",
+    "example": "Kauf bitte Tomaten.",
+    "english": "tomato",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "tot",
+    "example": "Der Hund ist tot.",
+    "english": "dead",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "treffen",
+    "example": "Ich treffe einen Freund.",
+    "english": "to meet",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "treffen",
+    "example": "Wir treffen uns um zehn.",
+    "english": "to meet",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Treppe",
+    "example": "Die Treppe ist steil.",
+    "english": "stairs",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "trinken",
+    "example": "Ich trinke Wasser.",
+    "english": "to drink",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "tschüss",
+    "example": "Tschüss, bis morgen!",
+    "english": "bye",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "tun",
+    "example": "Ich habe nichts zu tun.",
+    "english": "to do",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "tun",
+    "example": "Was tut dein Mann?",
+    "english": "to do",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "über",
+    "example": "Geh über die Brücke.",
+    "english": "across",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "über",
+    "example": "Wir wohnen über einem Restaurant.",
+    "english": "above",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "über",
+    "example": "Ich bin über 30.",
+    "english": "over",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "übernachten",
+    "example": "Wir übernachten im Hotel.",
+    "english": "to stay overnight",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "überweisen",
+    "example": "Ich überweise das Geld.",
+    "english": "to transfer",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Uhr",
+    "example": "Es ist drei Uhr.",
+    "english": "o'clock / am / pm",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "um",
+    "example": "Der Zug kommt um zehn Uhr.",
+    "english": "at",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "um",
+    "example": "Er kommt um die Ecke.",
+    "english": "around",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "umziehen",
+    "example": "Wir ziehen nächste Woche um.",
+    "english": "to move (residence)",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "und",
+    "example": "Ich und meine Schwester.",
+    "english": "and",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "unser-",
+    "example": "Unser Haus ist groß.",
+    "english": "our",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "unten",
+    "example": "Die Wohnung ist unten.",
+    "english": "at the bottom",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "unter",
+    "example": "Die Katze ist unter dem Tisch.",
+    "english": "below",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Unterricht",
+    "example": "Der Unterricht beginnt um acht.",
+    "english": "class",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "unterschreiben",
+    "example": "Bitte unterschreiben Sie hier.",
+    "english": "to sign",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Unterschrift",
+    "example": "Hier fehlt die Unterschrift.",
+    "english": "signature",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Urlaub",
+    "example": "Ich mache nächste Woche Urlaub.",
+    "english": "holiday",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Vater",
+    "example": "Mein Vater arbeitet viel.",
+    "english": "father",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "verboten",
+    "example": "Rauchen ist verboten.",
+    "english": "forbidden",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "verdienen",
+    "example": "Ich verdiene 2000 Euro.",
+    "english": "to earn",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Verein",
+    "example": "Er ist in einem Sportverein.",
+    "english": "club",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "verheiratet",
+    "example": "Sie ist verheiratet.",
+    "english": "married",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "verkaufen",
+    "example": "Ich verkaufe mein Auto.",
+    "english": "to sell",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Verkäufer",
+    "example": "Die Verkäuferin ist sehr freundlich.",
+    "english": "salesperson",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "vermieten",
+    "example": "Die Wohnung wird vermietet.",
+    "english": "to rent out",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Vermieter",
+    "example": "Der Vermieter wohnt nebenan.",
+    "english": "landlord",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "verstehen",
+    "example": "Verstehst du mich?",
+    "english": "to understand",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Verwandte",
+    "example": "Wir besuchen unsere Verwandten.",
+    "english": "relative",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "viel",
+    "example": "Ich habe viel Arbeit.",
+    "english": "a lot",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "vielleicht",
+    "example": "Ich komme vielleicht später.",
+    "english": "perhaps / may(be)",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "von",
+    "example": "Das ist das Auto von Peter.",
+    "english": "of (possessive 's')",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "von",
+    "example": "Ich komme von der Arbeit.",
+    "english": "from",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "vor",
+    "example": "Das war vor zwei Stunden.",
+    "english": "ago",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "vor",
+    "example": "Das Auto steht vor dem Haus.",
+    "english": "in front of",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Vorname",
+    "example": "Mein Vorname ist Anna.",
+    "english": "first name",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Vorsicht",
+    "example": "Vorsicht! Stufe!",
+    "english": "careful!",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Vorsicht",
+    "example": "Fahre mit Vorsicht.",
+    "english": "attention",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "vorstellen",
+    "example": "Darf ich mich vorstellen?",
+    "english": "to introduce",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Vorwahl",
+    "example": "Die Vorwahl von Berlin ist 030.",
+    "english": "area code",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "wandern",
+    "example": "Wir wandern im Schwarzwald.",
+    "english": "to hike",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "wann",
+    "example": "Wann kommst du?",
+    "english": "when",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "wann",
+    "example": "Wann kann ich anrufen?",
+    "english": "when",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "wann",
+    "example": "Wann hast du Geburtstag?",
+    "english": "when",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "warten",
+    "example": "Kannst du einen Moment warten?",
+    "english": "to wait",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "warten",
+    "example": "Ich warte auf den Bus.",
+    "english": "to wait",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "warum",
+    "example": "Warum bist du traurig?",
+    "english": "why",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "was",
+    "example": "Was ist das?",
+    "english": "what",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "was",
+    "example": "Was möchtest du essen?",
+    "english": "what",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "für ein",
+    "example": "Was für ein Buch ist das?",
+    "english": "what kind of",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "waschen",
+    "example": "Ich wasche meine Hände.",
+    "english": "to wash",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "waschen",
+    "example": "Ich muss die Wäsche waschen.",
+    "english": "to wash",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Wasser",
+    "example": "Ich trinke ein Glas Wasser.",
+    "english": "water",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "tun",
+    "example": "Mein Rücken tut weh.",
+    "english": "to hurt",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "weiblich",
+    "example": "Kreuze weiblich an.",
+    "english": "female",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Wein",
+    "example": "Der Wein ist sehr gut.",
+    "english": "wine",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "weit",
+    "example": "Ist es weit bis zum Bahnhof?",
+    "english": "far",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "weiter",
+    "example": "Gehen Sie weiter geradeaus.",
+    "english": "further",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "welch-",
+    "example": "Welches Kleid gefällt dir?",
+    "english": "which",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Welt",
+    "example": "Die Welt ist groß.",
+    "english": "world",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "wenig",
+    "example": "Ich habe wenig Zeit.",
+    "english": "little / not very much",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "wenig",
+    "example": "Er verdient wenig Geld.",
+    "english": "little",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "wer",
+    "example": "Wer ist das?",
+    "english": "who",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "werden",
+    "example": "Ich möchte Arzt werden.",
+    "english": "to become",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Wetter",
+    "example": "Das Wetter ist schön.",
+    "english": "weather",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "wichtig",
+    "example": "Das ist sehr wichtig.",
+    "english": "important",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "wie",
+    "example": "Wie heißt du?",
+    "english": "what",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "wie",
+    "example": "Sie sieht aus wie ihre Mutter.",
+    "english": "like",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "wie",
+    "example": "Ich bin so groß wie du.",
+    "english": "as",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "wie",
+    "example": "Wie mache ich das?",
+    "english": "how",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "wie",
+    "example": "Wie alt bist du?",
+    "english": "how",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "wie",
+    "example": "Wie bitte?",
+    "english": "Pardon?",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "wie",
+    "example": "Wie lange bleibst du?",
+    "english": "how",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "wiederholen",
+    "example": "Kannst du das wiederholen?",
+    "english": "to repeat",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Wiederhören",
+    "example": "Auf Wiederhören!",
+    "english": "Goodbye! (on phone)",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Wiedersehen",
+    "example": "Auf Wiedersehen!",
+    "english": "Goodbye!",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "viel",
+    "example": "Wie viel kostet das?",
+    "english": "how much",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "willkommen",
+    "example": "Willkommen in Berlin!",
+    "english": "Welcome!",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Wind",
+    "example": "Der Wind ist stark.",
+    "english": "wind",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "wir",
+    "example": "Wir gehen heute ins Kino.",
+    "english": "we",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "wissen",
+    "example": "Ich weiß die Antwort.",
+    "english": "to know",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "wo",
+    "example": "Wo warst du?",
+    "english": "where",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "wo",
+    "example": "Wo ist der Bahnhof?",
+    "english": "where",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "wo",
+    "example": "Wo wohnst du?",
+    "english": "where",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "woher",
+    "example": "Woher kommst du?",
+    "english": "from where",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "wohin",
+    "example": "Wohin fährst du?",
+    "english": "to where",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "wohin",
+    "example": "Wohin gehst du am Wochenende?",
+    "english": "to where",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "wohnen",
+    "example": "Ich wohne in Hamburg.",
+    "english": "to live",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Wohnung",
+    "example": "Die Wohnung ist groß.",
+    "english": "flat",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "wollen",
+    "example": "Ich will nach Hause gehen.",
+    "english": "to want",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Wort",
+    "example": "Ich kenne das Wort nicht.",
+    "english": "word",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "wunderbar",
+    "example": "Das Wetter ist wunderbar.",
+    "english": "wonderful",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "zahlen",
+    "example": "Ich möchte zahlen.",
+    "english": "to pay",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Zeit",
+    "example": "Ich habe keine Zeit.",
+    "english": "time",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "zurzeit",
+    "example": "Zurzeit bin ich beschäftigt.",
+    "english": "at the moment",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Zeitung",
+    "example": "Ich lese die Zeitung.",
+    "english": "newspaper",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Zigarette",
+    "example": "Ich möchte eine Zigarette.",
+    "english": "cigarette",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Zimmer",
+    "example": "Das Zimmer ist groß.",
+    "english": "room",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Zimmer",
+    "example": "Das Schlafzimmer ist hell.",
+    "english": "room",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Zimmer",
+    "example": "Die Wohnung hat vier Zimmer.",
+    "english": "room",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "das",
+    "german": "Zimmer",
+    "example": "Ich habe ein Zimmer im Hotel.",
+    "english": "room",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Zoll",
+    "example": "Wir müssen durch den Zoll.",
+    "english": "customs",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "zu",
+    "example": "Der Bus fährt zum Bahnhof.",
+    "english": "to",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "zu",
+    "example": "Ich gehe zu Fuß.",
+    "english": "by",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "zu",
+    "example": "Ich bin zu Hause.",
+    "english": "at",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "zufrieden",
+    "example": "Ich bin zufrieden mit der Arbeit.",
+    "english": "happy",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "der",
+    "german": "Zug",
+    "example": "Der Zug fährt um acht.",
+    "english": "train",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "zurück",
+    "example": "Ein Ticket nach Berlin und zurück.",
+    "english": "return",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "zurück",
+    "example": "Wann bist du zurück?",
+    "english": "back",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "zusammen",
+    "example": "Essen wir zusammen?",
+    "english": "together",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "zusammen",
+    "example": "Das macht zusammen 5 Euro.",
+    "english": "together",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "zwischen",
+    "example": "Das Haus liegt zwischen den Bäumen.",
+    "english": "between",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "zwischen",
+    "example": "Ich bin zwischen 8 und 10 Uhr zu Hause.",
+    "english": "between",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "",
+    "german": "waschen",
+    "example": "Ich wasche mich jeden Morgen.",
+    "english": "to wash",
+    "source_deck": "A1"
+  },
+  {
+    "german_raw": "die",
+    "german": "Nummer",
+    "example": "Ihre Zimmernummer ist 312.",
+    "english": "number",
+    "source_deck": "A1"
+  }
+]

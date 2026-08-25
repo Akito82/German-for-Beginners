@@ -1,0 +1,308 @@
+[
+  {
+    "question": "What's the name of the German standard dictionary, similar to the Oxford English Dictionary?",
+	"right": "Duden",
+    "wrong": "Knigge",
+	"wrong2": "Bild"
+  },
+  {
+    "question": "Who's the German national poet?",
+	"right": "Johann Wolfgang von Goethe",
+    "wrong": "Heinrich Heine",
+	"wrong2": "Robert Musil"
+  },
+  {
+    "question": "How many words are there in the German standard dictionary?",
+	"right": "150.000",
+    "wrong": "100.000",
+	"wrong2": "50.000"
+  },
+  {
+    "question": "Which other language is usually considered to be the closest relative to German?",
+	"right": "Dutch",
+    "wrong": "Afrikaans",
+	"wrong2": "Swedish"
+  },
+  {
+    "question": "To which language family does German belong?",
+	"right": "Indo-European",
+    "wrong": "Austronesian",
+	"wrong2": "Afro-Asiatic"
+  },
+  {
+    "question": "What's the etymology of the German word 'Avocado'?",
+	"right": "Testicle",
+    "wrong": "Tree",
+	"wrong2": "Crocodile fruit"
+  },
+  {
+    "question": "Which of the 4 cases indicates possession?",
+	"right": "Genitiv",
+    "wrong": "Dativ",
+	"wrong2": "Akkusativ"
+  },
+  {
+    "question": "Which of the 4 cases indicates the direct object?",
+	"right": "Akkusativ",
+    "wrong": "Dativ",
+	"wrong2": "Nominativ"
+  },
+  {
+    "question": "Which of the 4 cases indicates the indirect object / the receiver?",
+	"right": "Dativ",
+    "wrong": "Genitiv",
+	"wrong2": "Akkusativ"
+  },
+  {
+    "question": "What does TeKaMoLo stand for?",
+	"right": "Time, cause, mode, location",
+    "wrong": "Test case mode logic",
+	"wrong2": "Test casual mode logic"
+  },
+  {
+    "question": "What is an example for n-Delination?",
+	"right": "an Herrn B",
+    "wrong": "den Kindern",
+	"wrong2": "Frauen"
+  },
+  {
+    "question": "When (among other cases) is n-Delkination used?",
+	"right": "for animals and nationalities",
+    "wrong": "for names and pronouns",
+	"wrong2": "for adectives and adverbs"
+  },
+  {
+    "question": "Roughly how many German loanwords are there in the English language?",
+	"right": "6000",
+    "wrong": "20000",
+	"wrong2": "1000"
+  },
+  {
+    "question": "How many native German speakers are there?",
+	"right": "130 million",
+    "wrong": "90 milion",
+	"wrong2": "110 million"
+  },
+  {
+    "question": "What is a 'Plusquamperfekt'?",
+	"right": "A German tense",
+    "wrong": "A tense German",
+	"wrong2": "A Roman settlement in Germany"
+  },
+  {
+    "question": "When is 'als' used in the sense of 'when'?",
+	"right": "If an action happened only once in the past",
+    "wrong": "If an action happened repeatedly in the past",
+	"wrong2": "If an action is going to happen in the future"
+  },
+  {
+    "question": "When is 'als' used in the sense of 'when'?",
+	"right": "If an action happened repeatedly in the past or if it will happen in the future",
+    "wrong": "If an action happened only once in the past",
+	"wrong2": "If an action happened repeatedly in the past"
+  },
+  {
+    "question": "Why is the infinitive called infinitive?",
+	"right": "Because the verb is unbound by pronoun, time, etc.",
+    "wrong": "Because there are infinitely many infinitives",
+	"wrong": "Because it's a mistranslation"
+  },
+  {
+    "question": "Why is the perfect tense called perfect?",
+	"right": "Because in Latin grammar, it was the tense for something definitely finished ('perfectum')",
+    "wrong": "Because perfectum (per fectum) means 'per fate'",
+	"wrong2": "Because it was considered the perfection of grammar"
+  },
+  {
+    "question": "Why is the Dativ called Dativ?",
+	"right": "It comes from Latin datus = given.",
+    "wrong": "It comes from Ancient Greek datos = date",
+	"wrong2": "It comes from French doire = to take away"
+  },
+  {
+    "question": "What is the Präteritum of gehen?",
+	"right": "Ich ging",
+    "wrong": "Ich bin gegangen",
+	"wrong2": "Ich war gegangen"
+  },
+  {
+    "question": "What is the Perfekt of gehen?",
+	"right": "Ich bin gegangen",
+    "wrong": "Ich ging",
+	"wrong2": "Ich war gegangen"
+  },
+  {
+    "question": "What is the Plusquamperfekt of gehen?",
+	"right": "Ich war gegangen",
+    "wrong": "Ich ging",
+	"wrong2": "Ich bin gegangen"
+  },
+  {
+    "question": "What does this sentence mean: 'Ich werde 30 Jahre alt werden'?",
+	"right": "I will turn 30",
+    "wrong": "I want to to turn 30",
+	"wrong2": "I would turn 30"
+  },
+  {
+    "question": "What does a Bavarian usually say instead of 'Hallo'?",
+	"right": "Servus",
+    "wrong": "Gude",
+	"wrong2": "Moin"
+  },
+  {
+    "question": "What does a person from Hamburg usually say instead of 'Hallo'?",
+	"right": "Moin",
+    "wrong": "Gude",
+	"wrong2": "Servus"
+  },
+  {
+    "question": "What does a person from Frankfurt usually say instead of 'Hallo'?",
+	"right": "Gude",
+    "wrong": "Moin",
+	"wrong2": "Servus"
+  },
+  {
+    "question": "When was the Bundesrepublik Deutschland founded?",
+	"right": "1949",
+    "wrong": "1945",
+	"wrong2": "1947"
+  },
+  {
+    "question": "When was Germany created as a united state (before there were dozens of mini states)?",
+	"right": "1871",
+    "wrong": "1849",
+	"wrong2": "1918"
+  },
+  {
+    "question": "During what time period did the Weimar Republic exist?",
+	"right": "1918 - 1933",
+    "wrong": "1914 - 1918",
+	"wrong2": "1945 - 1949"
+  },
+  {
+    "question": "Why do Germans don't have humor?",
+	"right": "How dare you accuse Germans of being not funny? I will sue you!",
+    "wrong": "They lost it as part of the reparation payments to England",
+	"wrong2": "The Grinch stole it"
+  },
+  {
+    "question": "How many Bundesländer are there in Germany?",
+	"right": "16",
+    "wrong": "15",
+	"wrong2": "14"
+  },
+  {
+    "question": "Where is the verb in the Nebensatz?",
+	"right": "last position",
+    "wrong": "1st position",
+	"wrong2": "2nd position"
+  },
+  {
+    "question": "Where is the verb in the Hauptsatz??",
+	"right": "2nd position",
+    "wrong": "last position",
+	"wrong2": "1st position"
+  },
+  {
+    "question": "What's the plural of Auto?",
+	"right": "Autos",
+    "wrong": "Auti",
+	"wrong2": "Auton"
+  },
+  {
+    "question": "What's the plural of Haus?",
+	"right": "Häuser",
+    "wrong": "Hause",
+	"wrong2": "Hausen"
+  },
+  {
+    "question": "What's the plural of Frau?",
+	"right": "Frauen",
+    "wrong": "Fräulein",
+	"wrong2": "Fraus"
+  },
+  {
+    "question": "What's the longest word the standard German dictionary Duden?",
+	"right": "Grundstücksverkehrsgenehmigungszuständigkeitsübertragungsverordnung",
+    "wrong": "Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch",
+	"wrong2": "Straßenentwässerungsinvestitionskostenschuldendienstumlage"
+  },
+  {
+    "question": "What's the title of a famous German children's book from the 19th century?",
+	"right": "Struwwelpeter",
+    "wrong": "Die Unendliche Geschichte",
+	"wrong2": "Also Sprach Zarathustra"
+  },
+  {
+    "question": "Which nouns get an extra s in Genitiv?",
+	"right": "male and neutral",
+    "wrong": "female and neutral",
+	"wrong2": "male and female"
+  },
+  {
+    "question": "What's 'You mustn't play video games' in German?",
+	"right": "Du darfst nicht Computer spielen",
+    "wrong": "Du musst nicht Computer spielen",
+	"wrong2": "Du sollst nicht Computer spielen"
+  },
+  {
+    "question": "What's 'You need to buy cereals' in German?",
+	"right": "Du musst Müsli kaufen",
+    "wrong": "Du brauchst Müsli kaufen",
+	"wrong2": "Du solltest Müsli kaufen"
+  },
+  {
+    "question": "Where does the word Jeans come from?",
+	"right": "Italian city of Genua",
+    "wrong": "Lord Jeans of Oxford",
+	"wrong2": "Jean's Denim Factory"
+  },
+  {
+    "question": "What's 'the house was built in 1920' in German?",
+	"right": "Das Haus wurde 1920 gebaut",
+    "wrong": "Das Haus ist 1920 gebaut",
+	"wrong2": "Das Haus war 1920 gebaut"
+  },
+  {
+    "question": "What does the German prefix ur- mean?",
+	"right": "very old/first",
+    "wrong": "hip/fancy",
+	"wrong2": "dangerous"
+  },
+  {
+    "question": "What does the German prefix zer- mean?",
+	"right": "destroy",
+    "wrong": "create",
+	"wrong2": "maintain"
+  },
+  {
+    "question": "What does the German prefix los- (as in losfahren) mean?",
+	"right": "to start an action",
+    "wrong": "to end an action",
+	"wrong2": "to repeat an action"
+  },
+  {
+    "question": "What does the German prefix weg- (as in wegwerfen) mean?",
+	"right": "away",
+    "wrong": "towards",
+	"wrong2": "negation"
+  },
+  {
+    "question": "What are - according to a 2023 survey - the 3 most beautiful German words?",
+	"right": "Kuddelmuddel, Fingerspitzengefühl, Frieden",
+    "wrong": "Gemütlichkeit, Liebe, Augenweide",
+	"wrong2": "Glückkseligkeit, Schmetterling, Vergissmeinnicht"
+  },
+  {
+    "question": "How do you translate 'I want to watch a movie' into German?",
+	"right": "Ich will einen Film schauen",
+    "wrong": "Ich will einen Film zu schauen",
+	"wrong2": "Ich will zu schauen einen Film"
+  },
+  {
+    "question": "What was the German capital before Berlin?",
+	"right": "Bonn",
+    "wrong": "Frankfurt am Main",
+	"wrong2": "München"
+  }
+]
