@@ -22,12 +22,17 @@ def resource_path(relative_path):
 # ---------- LOAD DATA ----------
 @st.cache_resource
 def load_workbook():
-    return xlrd.open_workbook(resource_path("data/prefixes.xls"))
+    try:
+        return xlrd.open_workbook(resource_path("data/prefixes.xls"))
+    except:
+        return None
 
 @st.cache_data
 def load_text_files():
     verbs = []
     meaninglist = []
+    prefixNames = []
+    prefixMeanings = []
     
     # Load verbs and meanings
     try:
@@ -39,12 +44,10 @@ def load_text_files():
                 if l[0] == "[":
                     meaninglist[len(meaninglist)-1].append(l.strip())
     except FileNotFoundError:
-        st.warning("⚠️ plain.txt not found. Using fallback data.")
-        return [], []
+        st.warning("⚠️ data/plain.txt not found.")
+        return [], [], [], []
     
     # Load prefix meanings
-    prefixNames = []
-    prefixMeanings = []
     try:
         with open(resource_path("data/prefixes.txt"), "r", encoding="utf-8") as file2:
             for l in file2:
@@ -55,24 +58,28 @@ def load_text_files():
                 else:
                     prefixMeanings[len(prefixMeanings)-1].append(l.strip())
     except FileNotFoundError:
-        st.warning("⚠️ prefixes.txt not found. Using fallback data.")
+        st.warning("⚠️ data/prefixes.txt not found.")
         return verbs, meaninglist, [], []
     
     return verbs, meaninglist, prefixNames, prefixMeanings
 
 # ---------- LOAD DATA ----------
-try:
-    workbook = load_workbook()
-    worksheet = workbook.sheet_by_index(0)
-    verbs, meaninglist, prefixNames, prefixMeanings = load_text_files()
-    data_loaded = True
-except Exception as e:
-    data_loaded = False
-    st.error(f"❌ Error loading data: {e}")
-    st.info("💡 Please make sure these files exist in the data/ folder:\n- prefixes.xls\n- plain.txt\n- prefixes.txt")
+workbook = load_workbook()
+verbs, meaninglist, prefixNames, prefixMeanings = load_text_files()
+
+if workbook is None or not verbs:
+    st.error("❌ Error loading data files. Please make sure these files exist in the data/ folder:")
+    st.markdown("""
+    - data/prefixes.xls
+    - data/plain.txt
+    - data/prefixes.txt
+    """)
+    st.stop()
+
+worksheet = workbook.sheet_by_index(0)
 
 # ---------- SESSION STATE ----------
-if data_loaded:
+def init_state():
     if 'pv_x' not in st.session_state:
         st.session_state.pv_x = random.randint(1, 82)
         st.session_state.pv_y = random.randint(1, 30)
@@ -88,6 +95,8 @@ if data_loaded:
         st.session_state.pv_q1_answered = False
         st.session_state.pv_quiz_complete = False
         st.session_state.pv_initialized = True
+
+init_state()
 
 # ---------- HELPER FUNCTIONS ----------
 def get_prefix_meaning_message(prefix):
@@ -145,25 +154,25 @@ def check_question1(answer):
     st.session_state.pv_q1_answered = True
     
     if selection != "" and answer == "Yes":
-        st.session_state.pv_feedback = "✓ Correct! The word exists."
+        st.session_state.pv_feedback = "✅ Correct! The word exists."
         st.session_state.pv_feedback_color = "green"
         if st.session_state.pv_has_options:
             st.session_state.pv_show_second = True
     elif selection == "" and answer == "No":
-        st.session_state.pv_feedback = "✓ Correct! The word does not exist."
+        st.session_state.pv_feedback = "✅ Correct! The word does not exist."
         st.session_state.pv_feedback_color = "green"
         st.session_state.pv_show_second = False
     else:
         if selection != "":
-            st.session_state.pv_feedback = "✗ Wrong! The word actually exists."
+            st.session_state.pv_feedback = "❌ Wrong! The word actually exists."
         else:
-            st.session_state.pv_feedback = "✗ Wrong! The word does not exist."
+            st.session_state.pv_feedback = "❌ Wrong! The word does not exist."
         st.session_state.pv_feedback_color = "red"
         st.session_state.pv_show_second = False
 
 def check_question2(answer_number):
     if answer_number == st.session_state.pv_trueNumber:
-        text = "✓ Correct meaning!\n\n"
+        text = "✅ Correct meaning!\n\n"
         prefix_verb = st.session_state.pv_prefix + st.session_state.pv_verb
         if prefix_verb in verbs:
             num = verbs.index(prefix_verb)
@@ -173,7 +182,7 @@ def check_question2(answer_number):
         st.session_state.pv_feedback_color = "green"
         st.session_state.pv_quiz_complete = True
     else:
-        text = "✗ Wrong meaning.\n\n"
+        text = "❌ Wrong meaning.\n\n"
         prefix_verb = st.session_state.pv_prefix + st.session_state.pv_verb
         if prefix_verb in verbs:
             num = verbs.index(prefix_verb)
@@ -184,13 +193,7 @@ def check_question2(answer_number):
         st.session_state.pv_feedback_color = "red"
         st.session_state.pv_quiz_complete = True
 
-def toggle_meaning_display():
-    st.session_state.pv_show_meaning = not st.session_state.pv_show_meaning
-
 # ---------- UI ----------
-if not data_loaded:
-    st.stop()
-
 st.title("🇩🇪 German Prefix + Verb Tool")
 st.markdown("Learn German prefixes and their verb combinations!")
 
@@ -201,8 +204,10 @@ col1, col2 = st.columns([3, 1])
 with col1:
     st.markdown(f"### **<span style='color:red'>{st.session_state.pv_prefix}</span>**", unsafe_allow_html=True)
 with col2:
-    if st.button("📖 Show meaning", key="pv_show_meaning"):
-        toggle_meaning_display()
+    show_meaning_clicked = st.button("📖 Show meaning", key="pv_show_meaning_btn", use_container_width=True)
+    if show_meaning_clicked:
+        st.session_state.pv_show_meaning = not st.session_state.pv_show_meaning
+        st.rerun()
 
 if st.session_state.pv_show_meaning:
     st.info(prefix_meaning)
@@ -215,16 +220,20 @@ st.subheader("Does this word exist?")
 col1, col2 = st.columns(2)
 
 with col1:
-    if st.button("✅ Yes", key="pv_q1_yes", use_container_width=True):
+    q1_yes = st.button("✅ Yes", key="pv_q1_yes", use_container_width=True)
+    if q1_yes:
         if not st.session_state.pv_q1_answered:
             check_question1("Yes")
+            st.rerun()
         else:
             st.warning("Already answered! Generate new words.")
 
 with col2:
-    if st.button("❌ No", key="pv_q1_no", use_container_width=True):
+    q1_no = st.button("❌ No", key="pv_q1_no", use_container_width=True)
+    if q1_no:
         if not st.session_state.pv_q1_answered:
             check_question1("No")
+            st.rerun()
         else:
             st.warning("Already answered! Generate new words.")
 
@@ -238,9 +247,11 @@ if st.session_state.pv_show_second:
         cols = st.columns(3)
         for i, meaning in enumerate(meanings):
             with cols[i]:
-                if st.button(f"{i+1}. {meaning}", key=f"pv_q2_{i}", use_container_width=True):
+                q2_clicked = st.button(f"{i+1}. {meaning}", key=f"pv_q2_{i}", use_container_width=True)
+                if q2_clicked:
                     if not st.session_state.pv_quiz_complete:
                         check_question2(i+1)
+                        st.rerun()
                     else:
                         st.warning("Already answered! Generate new words.")
 
@@ -257,7 +268,8 @@ st.divider()
 col1, col2 = st.columns(2)
 
 with col1:
-    if st.button("🔄 Generate new words", use_container_width=True):
+    new_words = st.button("🔄 Generate new words", use_container_width=True)
+    if new_words:
         generate_new_words()
         st.rerun()
 
