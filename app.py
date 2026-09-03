@@ -4,6 +4,74 @@ import json
 import os
 import random
 
+# Create a manifest.json file content
+PWA_MANIFEST = {
+    "name": "Vietnamese Learning Portal",
+    "short_name": "VN Learn",
+    "description": "Learn Vietnamese vocabulary, slang, and grammar with interactive games",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#f0f2f5",
+    "theme_color": "#2c3e50",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/512/323/323327.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/512/323/323327.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
+
+# Inject PWA meta tags
+def inject_pwa_meta():
+    """Inject PWA meta tags and manifest into the app"""
+    st.markdown("""
+    <!-- PWA Meta Tags -->
+    <link rel="manifest" href="data:application/json;charset=utf-8,""" + 
+    json.dumps(PWA_MANIFEST).replace('"', '%22') + 
+    """">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="VN Learn">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#2c3e50">
+    <link rel="apple-touch-icon" href="https://cdn-icons-png.flaticon.com/512/323/323327.png">
+    """, unsafe_allow_html=True)
+
+# ============================================
+# PAGE CONFIGURATION
+# ============================================
+st.set_page_config(
+    page_title="Vietnamese Learning Portal",
+    page_icon="🇻🇳",
+    layout="wide",
+    initial_sidebar_state="expanded",
+    # Add PWA settings
+    menu_items={
+        'Get Help': 'https://github.com/yourusername/vietnamese-web-app',
+        'Report a bug': 'https://github.com/yourusername/vietnamese-web-app/issues',
+        'About': """
+        ### 🇻🇳 Vietnamese Learning Portal
+        **Version:** 1.0.0
+            
+        Learn Vietnamese vocabulary, slang, and grammar through interactive games.
+            
+        Made with ❤️ using Streamlit.
+        """
+    }
+)
+
+# Inject PWA meta tags
+inject_pwa_meta()
+
 # ---------- PAGE CONFIG ----------
 st.set_page_config(
     page_title="🇩🇪 German Learning Portal",
