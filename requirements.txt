@@ -1,10 +1,19 @@
-python-docx
-Pillow
-beautifulsoup4
-lxml
-xlrd
-streamlit==1.28.0
-pandas==2.1.0
-gTTS==2.3.2
-requests==2.31.0
-streamlit-pwa==0.1.0  # Optional PWA helper
+# Vietnamese Learning Portal Requirements
+
+# Core dependencies
+streamlit>=1.28.0
+pandas>=2.2.0  # Updated from 2.1.0 to support Python 3.14
+requests>=2.31.0
+
+# TTS (optional - will gracefully fail if not available)
+gTTS>=2.3.0
+
+# Data processing
+python-docx>=1.1.0
+Pillow>=10.0.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+xlrd>=2.0.0
+
+# Remove these - they don't exist:
+# streamlit-pwa==0.1.0  <- REMOVE THIS LINE!
