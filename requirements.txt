@@ -1,8 +1,10 @@
-streamlit
-gtts
 python-docx
 Pillow
-requests
 beautifulsoup4
 lxml
 xlrd
+streamlit==1.28.0
+pandas==2.1.0
+gTTS==2.3.2
+requests==2.31.0
+streamlit-pwa==0.1.0  # Optional PWA helper
