@@ -72,6 +72,27 @@ st.set_page_config(
 # Inject PWA meta tags
 inject_pwa_meta()
 
+def register_service_worker():
+    """Register service worker for PWA offline support"""
+    st.markdown("""
+    <script>
+    if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function() {
+            navigator.serviceWorker.register('/service-worker.js')
+                .then(function(registration) {
+                    console.log('ServiceWorker registration successful');
+                })
+                .catch(function(err) {
+                    console.log('ServiceWorker registration failed: ', err);
+                });
+        });
+    }
+    </script>
+    """, unsafe_allow_html=True)
+
+# Call this after page config
+register_service_worker()
+
 # ---------- PAGE CONFIG ----------
 st.set_page_config(
     page_title="🇩🇪 German Learning Portal",
